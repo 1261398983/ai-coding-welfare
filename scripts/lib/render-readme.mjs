@@ -7,6 +7,7 @@ import { coverage } from './history.mjs';
 import { activeSites, archivedSites, archivedAt, archivedReason } from './archived.mjs';
 import { subscriptionPlan } from './subscription.mjs';
 import { readmeLanguages } from './locales.mjs';
+import { esc } from './layout.mjs';
 
 /** shields.io 转义：- → --，_ → __，其余走 URI 编码 */
 const shield = (s) => encodeURIComponent(String(s).replace(/-/g, '--').replace(/_/g, '__'));
@@ -60,7 +61,10 @@ function overviewTable(sites, liveById) {
         : l.checkinEnabled === false
           ? '无签到'
           : '—');
-    const models = sub ? `${sub.estimates.length} 种<br>官网公示` : l.models?.length ? `${l.models.length} 个可查` : l.services?.length ? l.services.join(' / ') : '需登录查看';
+    const models = sub ? `${sub.estimates.length} 种<br>官网公示`
+      : l.models?.length ? `${l.models.length} 个可查`
+      : s.modelsSummary ? `**${esc(s.modelsSummary).replace(/\|/g, '\\|').replace(/[\r\n]+/g, ' ')}**`
+      : l.services?.length ? l.services.join(' / ') : '需登录查看';
     const proto =
       [s.endpoints?.anthropic && 'Anthropic', s.endpoints?.openai && 'OpenAI'].filter(Boolean).join(' + ') ||
       s.setup?.client ||

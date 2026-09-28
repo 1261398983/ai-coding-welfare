@@ -38,7 +38,7 @@
 
 | 站点 | 状态 | 首日可得 / 套餐 | 额度构成 / 用量 | 每日 / 周期 | 兼容协议 | 模型 | 注册 | 邀请码 |
 | :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | 需登录查看 | [点此注册 →](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) | — |
+| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) | — |
 | **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=szt3) | — |
 | **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 无签到 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://ai.docode.life/register?aff=zMRe) | `zMRe` |
 | **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=VTrz) | — |
@@ -81,14 +81,14 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 
 ### 🟢 ArtBloom 🔥 首推
 
-> 注册首日即送 $100 · 提供 Opus 5.5，GitHub 一键注册
+> 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册
 
 <a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
 
 **为什么值得注册**
 
 - 注册首日即送 $100 API 额度，注册页公示即时到账，无需信用卡
-- 公开模型页已列出 Opus 5.5（claude-opus-5-5），输入 $2 / 百万 tokens、输出 $10 / 百万 tokens
+- 支持 Opus 5.5（claude-opus-5-5），公开模型页价格为输入 $2 / 百万 tokens、输出 $10 / 百万 tokens
 - 通过本页邀请链接使用 GitHub 注册；支持 OpenAI 兼容接口，可在通用客户端中接入
 
 **能拿多少额度**

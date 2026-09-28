@@ -63,7 +63,9 @@ function siteCard(site, snap) {
     route.short ? ['注册通道', esc(route.short)] : null,
     snap?.loginMethods?.length ? ['登录方式', esc(snap.loginMethods.join(' / '))] : null,
     snap?.githubMinAccountAgeDays ? ['账号门槛', `GitHub 满 ${snap.githubMinAccountAgeDays} 天`] : null,
-    sub ? null : snap?.models?.length ? ['可用模型', snap.models.map((m) => esc(m.name)).join('、')] : ['可用模型', '登录后台查看'],
+    sub ? null : snap?.models?.length ? ['可用模型', snap.models.map((m) => esc(m.name)).join('、')]
+      : site.modelsSummary ? ['可用模型', `<b>${esc(site.modelsSummary)}</b>`]
+      : ['可用模型', '登录后台查看'],
     ['接口延迟', snap?.latencyMs != null ? `${snap.latencyMs} ms` : '—'],
     staleHours(snap) ? ['数据快照', `${fmt(snap.staleFrom)}（接口暂未响应，沿用上次结果）`] : null,
     snap?.probeBlocked && !staleHours(snap)

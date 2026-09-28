@@ -13,6 +13,8 @@
       "每日免费额度",
       "claude-opus-5 API",
       "New API",
+      "ArtBloom",
+      "Opus 5.5 免费额度",
       "AgentRouter",
       "RawChat",
       "Matrix 统一网关",
@@ -31,10 +33,59 @@
   },
   "sites": [
     {
+      "id": "artbloom",
+      "name": "ArtBloom",
+      "subtitle": "注册首日即送 $100 · 提供 Opus 5.5，GitHub 一键注册",
+      "recommended": true,
+      "panel": "relay",
+      "credits": {
+        "signup": 100,
+        "invite": null,
+        "dailyCheckin": null,
+        "approx": false,
+        "unit": "usd"
+      },
+      "signupUrl": "https://api.artbloom.tech/signup?ref=PCTM2VCGUI",
+      "homeUrl": "https://api.artbloom.tech",
+      "docsUrl": "https://api.artbloom.tech/models",
+      "statusApi": "https://api.artbloom.tech",
+      "pricingApi": null,
+      "mirrors": [],
+      "tags": ["免费额度", "注册 $100", "Opus 5.5", "OpenAI 兼容"],
+      "highlights": [
+        "注册首日即送 $100 API 额度，注册页公示即时到账，无需信用卡",
+        "公开模型页已列出 Opus 5.5（claude-opus-5-5），输入 $2 / 百万 tokens、输出 $10 / 百万 tokens",
+        "通过本页邀请链接使用 GitHub 注册；支持 OpenAI 兼容接口，可在通用客户端中接入"
+      ],
+      "endpoints": {
+        "anthropic": null,
+        "openai": "https://api.artbloom.tech/v1"
+      },
+      "setup": {
+        "note": "通用客户端使用 OpenAI 兼容接口，Base URL 填 https://api.artbloom.tech/v1，Opus 5.5 的模型名填 claude-opus-5-5。"
+      },
+      "modelsNote": "2026-09-28 核对公开模型页：Opus 5.5 的模型 ID 为 claude-opus-5-5，输入 $2 / 百万 tokens、输出 $10 / 百万 tokens；另列有 claude-opus-5、DeepSeek-V4-Flash、kimi-k3。通过 OpenAI 兼容的 /v1/chat/completions 调用，完整模型与实时价格见 https://api.artbloom.tech/models。",
+      "faq": [
+        ["ArtBloom 注册首日能领多少额度？", "注册页公示新账号即时获得 $100 免费 API 额度，无需信用卡；登录后可在后台查看余额。"],
+        ["如何通过本页邀请链接注册 ArtBloom？", "打开完整链接 https://api.artbloom.tech/signup?ref=PCTM2VCGUI，保留 ref=PCTM2VCGUI，再点击 Continue with GitHub 完成注册。"],
+        ["如何调用 ArtBloom 的 Opus 5.5？", "使用 OpenAI 兼容接口，Base URL 填 https://api.artbloom.tech/v1，模型 ID 填 claude-opus-5-5，请求路径为 /v1/chat/completions。API Key 在登录后的后台创建。"]
+      ],
+      "register": {
+        "methods": ["GitHub OAuth"],
+        "requirements": [
+          "从本页完整邀请链接进入，保留 ref=PCTM2VCGUI，再点击 Continue with GitHub 注册",
+          "注册页公示新账号即时获得 $100 免费额度，到账后可在后台查看余额并创建 API Key"
+        ]
+      },
+      "earnMore": [],
+      "caveats": [],
+      "community": []
+    },
+    {
       "id": "agentrouter",
       "name": "AgentRouter",
       "subtitle": "AI Coding 公益站 · 注册即送额度，签到每日续命",
-      "recommended": true,
+      "recommended": false,
       "credits": {
         "signup": 100,
         "invite": 50,

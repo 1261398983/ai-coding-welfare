@@ -2,6 +2,46 @@
   "generatedAt": "2026-09-28T13:59:03.023Z",
   "sites": [
     {
+      "id": "artbloom",
+      "checkedAt": "2026-09-28T15:16:33.639Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 3055,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "ok": true,
+        "status": 200,
+        "ms": 2841,
+        "attempts": 1,
+        "url": "https://api.artbloom.tech/signup?ref=PCTM2VCGUI"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
       "id": "agentrouter",
       "checkedAt": "2026-09-28T13:58:56.491Z",
       "online": true,

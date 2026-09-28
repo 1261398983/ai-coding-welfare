@@ -80,6 +80,11 @@
     "report": "GitHub Octoverse 2025"
   },
   "sites": {
+    "artbloom": {
+      "summary": "Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no primeiro dia do cadastro e lista o Opus 5.5 (claude-opus-5-5) na página pública de modelos.",
+      "registration": "Use o link completo de indicação e continue com o GitHub. A página de cadastro anuncia US$ 100 em créditos imediatos, sem exigir cartão de crédito. Após entrar, crie uma chave de API no painel.",
+      "notes": "A página pública de modelos lista o Opus 5.5 e outros modelos com seus preços. Confira os preços atuais no serviço e o saldo real e o consumo no painel."
+    },
     "agentrouter": {
       "summary": "Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.",
       "registration": "Use o link de indicação com GitHub ou LinuxDO. Saia e entre novamente se os créditos não aparecerem.",

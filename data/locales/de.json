@@ -80,6 +80,11 @@
     "report": "GitHub Octoverse 2025"
   },
   "sites": {
+    "artbloom": {
+      "summary": "OpenAI-kompatibler API-Dienst mit 100 US-Dollar Guthaben am ersten Tag der Registrierung. Die öffentliche Modellseite führt Opus 5.5 (claude-opus-5-5) auf.",
+      "registration": "Den vollständigen Empfehlungslink verwenden und mit GitHub fortfahren. Die Registrierungsseite bewirbt sofortige 100 US-Dollar Guthaben ohne Kreditkarte. Nach der Anmeldung einen API-Schlüssel im Dashboard erstellen.",
+      "notes": "Die öffentliche Modellseite führt Opus 5.5 und weitere Modelle mit ihren Preisen auf. Aktuelle Modellpreise beim Anbieter sowie den tatsächlichen Kontostand und Verbrauch im Dashboard prüfen."
+    },
     "agentrouter": {
       "summary": "Community-Gateway mit Registrierungs-, Empfehlungs- und täglichen Check-in-Guthaben sowie Anthropic- und OpenAI-kompatiblen Endpunkten.",
       "registration": "Über den Empfehlungslink mit GitHub oder LinuxDO registrieren. Falls Guthaben fehlt, abmelden und erneut anmelden.",

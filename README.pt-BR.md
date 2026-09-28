@@ -21,6 +21,7 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 
 | Serviço | Status | Créditos no primeiro dia / plano | Créditos diários | Cadastro |
 | --- | --- | --- | --- | --- |
+| **ArtBloom** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
 | **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=szt3) |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sem check-in | [Abrir serviço / cadastrar](https://ai.docode.life/register?aff=zMRe) |
 | **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) |
@@ -32,7 +33,7 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | **CheapCodex** | Acessível | **$40** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Acessível | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
 
-**Créditos indicativos em USD no primeiro dia: $599.5 em 6 serviços que aceitam novos usuários.**
+**Créditos indicativos em USD no primeiro dia: $699.5 em 7 serviços que aceitam novos usuários.**
 
 Crédito no primeiro dia = cadastro + indicação + primeiro check-in (ou uma cota diária). São saldos separados em cada serviço, não dinheiro. Pontos, unidades internas, planos pagos, serviços arquivados e cadastros fechados ficam fora do total em USD. Condições e créditos recebidos podem variar.
 
@@ -44,6 +45,42 @@ As regras de crédito são registradas manualmente a partir de comunicados; as A
 2. Crie uma chave no painel. Use o endpoint verificado abaixo ou obtenha o endereço atual com o provedor se não houver um público.
 3. Configure um cliente compatível, faça uma requisição pequena e confira o consumo real do saldo antes de depender do serviço.
 
+## ArtBloom
+
+Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no primeiro dia do cadastro e lista o Opus 5.5 (claude-opus-5-5) na página pública de modelos.
+
+[Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/artbloom/)
+
+
+- **Créditos no primeiro dia / plano**: $100
+- **Cadastro**: $100
+- **Créditos diários**: Não divulgado publicamente
+- **Status**: Acessível
+- **Dados atualizados em**: 2026-09-28 15:16 UTC
+
+
+### Requisitos de cadastro
+
+Use o link completo de indicação e continue com o GitHub. A página de cadastro anuncia US$ 100 em créditos imediatos, sem exigir cartão de crédito. Após entrar, crie uma chave de API no painel.
+
+### Recompensas, limites e cuidados importantes
+
+A página pública de modelos lista o Opus 5.5 e outros modelos com seus preços. Confira os preços atuais no serviço e o saldo real e o consumo no painel.
+
+### Configuração do cliente
+
+Crie uma chave de API no painel e use apenas um modelo disponível para sua conta. URLs base Anthropic não incluem /v1; as compatíveis com OpenAI geralmente incluem. Um endpoint de protocolo não garante suporte a todos os modelos ou clientes.
+
+- OpenAI Base URL: `https://api.artbloom.tech/v1`
+- [Documentação do provedor (pode estar em chinês)](https://api.artbloom.tech/models)
+
+### Dados públicos dos modelos
+
+Somente modelos retornados pelos dados públicos são listados; a ausência de dados não significa ausência de modelos. Confirme preços atuais, grupos da conta e disponibilidade no painel. Preços por requisição não são preços por token.
+
+Não divulgado publicamente
+
+[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/artbloom/)
 ## AgentRouter
 
 Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.

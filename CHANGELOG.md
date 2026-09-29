@@ -6,6 +6,11 @@ AI Coding 福利站导航的自动变动记录：站点上下线、额度调整�
 
 > 只记录会影响「值不值得注册」的字段。探测被站点 WAF 拦下时不记在线状态变化，避免机房 IP 被拦被误报成掉线。
 
+## 2026-09-29
+
+- ➕ FlushAPI 上线模型：claude-sonnet-5 <sub>05:46 UTC</sub>
+- ➖ FlushAPI 下线模型：auto、claude-fable-5.1、claude-opus-4-7、claude-opus-4.7 等 10 个 <sub>05:46 UTC</sub>
+
 ## 2026-09-24
 
 - 🆕 新收录 FlushAPI：每日签到开启；注册 / 邀请 / 签到额度数额站点未公示 <sub>01:53 UTC</sub>

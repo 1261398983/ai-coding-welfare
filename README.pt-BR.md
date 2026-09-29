@@ -15,7 +15,7 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-09-28 23:18 UTC
+**Dados atualizados em:** 2026-09-29 05:46 UTC
 
 ## Visão geral
 
@@ -56,7 +56,7 @@ Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no prime
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -138,7 +138,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sem check-in
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -178,7 +178,7 @@ Gateway New API com login GitHub, check-ins diários e interfaces de imagens e t
 - **Créditos diários**: ≈$22/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -213,7 +213,7 @@ Ambiente multiagente com plano Go pago; conectar suas próprias contas ou chaves
 
 - **Créditos no primeiro dia / plano**: Go · $1/mês
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 > Estimativas por janela de 5 horas
 > Kimi K3: ≈130 requisições
@@ -258,7 +258,7 @@ Gateway New API com cadastro GitHub, preços públicos e saldos default / Super 
 - **Créditos diários**: Check-in ativo; valor não divulgado
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -283,22 +283,13 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 | Modelo | Entrada / 1 milhão de tokens | Saída / 1 milhão de tokens | Por requisição | Protocolo |
 | --- | --- | --- | --- | --- |
-| auto | $0.4 | $0.4 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
 | claude-fable-5 | $10 | $50 | — | anthropic / openai |
-| claude-fable-5.1 | $10 | $50 | — | anthropic / openai |
-| claude-opus-4-7 | $5 | $25 | — | anthropic / openai |
 | claude-opus-4-8 | $5 | $25 | — | anthropic / openai |
-| claude-opus-4.7 | $5 | $25 | — | anthropic / openai |
-| claude-opus-4.8 | $5 | $25 | — | anthropic / openai |
 | claude-opus-5 | $5 | $25 | — | anthropic / openai |
-| DeepSeek-V4.1-Flash | $0.033 | $0.067 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
-| glm-5.3 | $0.267 | $1 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
-| glm-5.3-flash | $0.053 | $0.2 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
+| claude-sonnet-5 | $2 | $10 | — | anthropic / openai |
 | gpt-5.6-luna | $0.2 | $1.2 | — | openai |
 | gpt-5.6-sol | $4 | $20 | — | openai |
 | gpt-6-astra | $10 | $50 | — | openai |
-| Qwen3.8-27B | $0.167 | $0.5 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
-| sensenova-6.8-flash-lite | $0.1 | $0.4 | — | openai / openai-response / openai-response-compact / anthropic / gemini / openai-alpha-search |
 
 [Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
@@ -314,7 +305,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -351,7 +342,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Bônus de indicação**: 600 pontos
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -388,7 +379,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:18 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -424,7 +415,7 @@ Gateway de IA com créditos de indicação, check-ins e rotas OpenAI, Anthropic 
 - **Bônus de indicação**: $20
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:17 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro
@@ -460,7 +451,7 @@ Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; 
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-28 23:18 UTC
+- **Dados atualizados em**: 2026-09-29 05:46 UTC
 
 
 ### Requisitos de cadastro

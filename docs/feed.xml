@@ -5,8 +5,16 @@
   <link rel="self" href="https://panxunying.github.io/ai-coding-welfare/feed.xml"/>
   <link href="https://panxunying.github.io/ai-coding-welfare/"/>
   <id>https://panxunying.github.io/ai-coding-welfare/</id>
-  <updated>2026-09-28T23:18:09.383Z</updated>
+  <updated>2026-09-29T05:46:12.704Z</updated>
   <author><name>AI Coding 福利站导航</name></author>
+  <entry>
+    <title>2026-09-29 · 2 项变动</title>
+    <link href="https://panxunying.github.io/ai-coding-welfare/changelog/#2026-09-29"/>
+    <id>tag:panxunying.github.io,2026-09-29:changelog</id>
+    <updated>2026-09-29T05:46:12.704Z</updated>
+    <summary>FlushAPI 上线模型：claude-sonnet-5（另有 1 项变动）</summary>
+    <content type="html">&lt;ul&gt;&lt;li&gt;➕ FlushAPI 上线模型：claude-sonnet-5&lt;/li&gt;&lt;li&gt;➖ FlushAPI 下线模型：auto、claude-fable-5.1、claude-opus-4-7、claude-opus-4.7 等 10 个&lt;/li&gt;&lt;/ul&gt;</content>
+  </entry>
   <entry>
     <title>2026-09-24 · 1 项变动</title>
     <link href="https://panxunying.github.io/ai-coding-welfare/changelog/#2026-09-24"/>

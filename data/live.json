@@ -1,0 +1,759 @@
+{
+  "generatedAt": "2026-09-29T12:56:05.423Z",
+  "sites": [
+    {
+      "id": "artbloom",
+      "checkedAt": "2026-09-29T12:55:54.309Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 854,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 748,
+        "attempts": 1,
+        "url": "https://api.artbloom.tech/signup?ref=PCTM2VCGUI"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "agentrouter",
+      "checkedAt": "2026-09-29T12:55:59.473Z",
+      "online": true,
+      "latencyMs": 246,
+      "error": "invalid json",
+      "systemName": "Agent Router",
+      "version": "init-20260918-cbda758f",
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [
+        "GitHub",
+        "LinuxDO"
+      ],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": 500000,
+      "inviteeBonusUsd": 50,
+      "inviterBonusUsd": 50,
+      "topupEnabled": false,
+      "announcements": [
+        {
+          "id": 16,
+          "date": "2026-08-28",
+          "text": "为保障服务长期运行，Claude 和 GPT 模型已调整为限量供应，每日分批次发放，用完即止。新的投放时间为🕙北京时间10:00和19:00（对应UTC时间02:00和11:00），请大家注意时间变更，避免跑空。🕙 额度用完后会报错“402 Budget pool quota has been exhausted.”，等待下一批或切换至 DeepSeek / GLM 即可继续使用。"
+        },
+        {
+          "id": 15,
+          "date": "2026-07-28",
+          "text": "📢 备用域名正式上线 为进一步提升服务可用性，本站现已推出备用域名：🔗 https://ps.air-outer.com 访问不了原域名的中国大陆用户可使用此域名，备用域名支持 API 接口调用 与 官网访问，与原域名功能完全一致。 原域名 https://agentrouter.org 可继续使用。"
+        },
+        {
+          "id": 14,
+          "date": "2026-07-16",
+          "text": "🎁 官方社区平台汇总 欢迎加入或关注以下官方渠道，获取最新动态与支持： 📱 QQ 群（会定期清人，没进多试几次） · 1群：1054950616 · 2群：1091388133 · 3群：700583832 💬 Discord（有中文交流频道） https://discord.gg/HgekCyHJqB 🐦 X（Twitter） https://x.com/AgentRouter_0"
+        },
+        {
+          "id": 13,
+          "date": "2026-06-30",
+          "text": "📢 不当使用行为封禁说明 为维护服务公平，平台禁止以下不当行为： · 批量注册/获取额度 · 自动化刷量套利 · 转售、共享账号及额度 · 虚假邀请欺诈 · 恶意绕过限制、干扰服务 违规账号将封禁，名单见 Discord 🚫blocked-history 频道。 申诉请联系：agent_router_org@163.com"
+        },
+        {
+          "id": 12,
+          "date": "2026-05-14",
+          "text": "因受到恶意举报影响，近期服务稳定性遇到巨大挑战，导致Claude系列模型大规模停用。 为保障后续提升服务质量、及时同步信息，我们已启用新的官方 Discord，并在新的官方X更新动态。 为避免走失，请大家有序移步： 新的 Discord： 👉 https://discord.gg/aYq5B4RW3 官方 X： 👉 @AgentRouter_0 https://x.com/AgentRouter_0 且用且珍惜"
+        }
+      ],
+      "models": [
+        {
+          "name": "claude-opus-4-8",
+          "ratio": 4,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 8,
+          "outputPerMTok": 40,
+          "groups": [
+            "test",
+            "core",
+            "default",
+            "probation",
+            "svip"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "claude-opus-5",
+          "ratio": 3,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 6,
+          "outputPerMTok": 30,
+          "groups": [
+            "default",
+            "probation",
+            "svip",
+            "test",
+            "core"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "deepseek-v4-flash",
+          "ratio": 2,
+          "completionRatio": 3,
+          "fixedPrice": null,
+          "inputPerMTok": 4,
+          "outputPerMTok": 12,
+          "groups": [
+            "core",
+            "default",
+            "probation",
+            "svip",
+            "test"
+          ],
+          "protocols": [
+            "openai",
+            "anthropic"
+          ]
+        },
+        {
+          "name": "gpt-6-astra",
+          "ratio": 2,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 4,
+          "outputPerMTok": 20,
+          "groups": [
+            "core",
+            "default",
+            "probation",
+            "svip",
+            "test"
+          ],
+          "protocols": [
+            "openai"
+          ]
+        }
+      ],
+      "modelsSource": "cached",
+      "defaults": {
+        "claude": "claude-opus-5",
+        "openai": "gpt-6-astra"
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 1019,
+        "attempts": 1,
+        "url": "https://agentrouter.org/register?aff=szt3"
+      },
+      "mirrors": [
+        {
+          "homeUrl": "https://ps.air-outer.com",
+          "online": false
+        }
+      ],
+      "staleFrom": "2026-09-23T14:55:56.319Z",
+      "apiOk": false,
+      "pricingOk": false,
+      "dataStale": true,
+      "staleFields": [
+        "systemName",
+        "version",
+        "loginMethods",
+        "quotaPerUnit",
+        "inviteeBonusUsd",
+        "inviterBonusUsd",
+        "topupEnabled",
+        "announcements",
+        "models",
+        "defaults"
+      ],
+      "services": [],
+      "probeBlocked": false
+    },
+    {
+      "id": "docode",
+      "checkedAt": "2026-09-29T12:55:54.146Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 562,
+      "error": null,
+      "systemName": "DoCode",
+      "version": "",
+      "registerOpen": true,
+      "passwordRegister": true,
+      "checkinEnabled": false,
+      "loginMethods": [
+        "账号密码"
+      ],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": 500000,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [
+        {
+          "id": 32,
+          "date": "2026-09-22",
+          "text": "中秋节活动预告：中秋节当天凡是 vip500，赠送 1500 额度；vip1000，赠送 3000 额度，；vip2000，赠送 5000 额度。中秋节三天，充值加赠 5-20%。"
+        },
+        {
+          "id": 31,
+          "date": "2026-09-21",
+          "text": "gptpro+分组即将下线，请及时切换至其他分组，推荐gpt不降智分组！！！"
+        },
+        {
+          "id": 30,
+          "date": "2026-09-18",
+          "text": "免费期间，可选择gpt与grok模型，总量为2W额度，用完即止，次日9点恢复，如使用问题请进群联系管理."
+        },
+        {
+          "id": 28,
+          "date": "2026-09-15",
+          "text": "国模分组倍率下调，其中deepseek仅保留DeepSeek-V4.1-Flash与DeepSeek-V4-Pro。"
+        },
+        {
+          "id": 27,
+          "date": "2026-09-10",
+          "text": "今天openai炸了，gpt全线都不太行，推荐用grok或者cc特殊分组"
+        }
+      ],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 0,
+        "ok": false,
+        "ms": 98,
+        "error": "fetch failed",
+        "attempts": 3,
+        "url": "https://ai.docode.life/register?aff=zMRe"
+      },
+      "mirrors": [
+        {
+          "homeUrl": "https://api.docode.cc",
+          "online": true
+        }
+      ],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "justdowork",
+      "checkedAt": "2026-09-29T12:55:54.214Z",
+      "online": true,
+      "latencyMs": 627,
+      "error": null,
+      "systemName": "JustDoWork",
+      "version": "v1.0.0-rc.23",
+      "registerOpen": true,
+      "passwordRegister": false,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "githubMinAccountAgeDays": 365,
+      "quotaPerUnit": 500000,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 796,
+        "attempts": 1,
+        "url": "https://api.justwoker.icu/sign-up?aff=VTrz"
+      },
+      "mirrors": [],
+      "apiOk": true,
+      "pricingOk": false,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": [],
+      "services": [],
+      "probeBlocked": false
+    },
+    {
+      "id": "mirasim",
+      "checkedAt": "2026-09-29T12:55:54.505Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 924,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 921,
+        "attempts": 1,
+        "url": "https://mirasim.ai/pricing"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "flushapi",
+      "checkedAt": "2026-09-29T12:55:55.153Z",
+      "apiOk": true,
+      "pricingOk": true,
+      "latencyMs": 1522,
+      "error": null,
+      "systemName": "FlushAPI",
+      "version": "",
+      "registerOpen": true,
+      "passwordRegister": false,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": 500000,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [
+        {
+          "name": "claude-fable-5",
+          "ratio": 5,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 10,
+          "outputPerMTok": 50,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "claude-opus-4-8",
+          "ratio": 2.5,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 5,
+          "outputPerMTok": 25,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "claude-opus-5",
+          "ratio": 2.5,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 5,
+          "outputPerMTok": 25,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "claude-sonnet-5",
+          "ratio": 1,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 2,
+          "outputPerMTok": 10,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "anthropic",
+            "openai"
+          ]
+        },
+        {
+          "name": "gpt-5.6-luna",
+          "ratio": 0.1,
+          "completionRatio": 6,
+          "fixedPrice": null,
+          "inputPerMTok": 0.2,
+          "outputPerMTok": 1.2,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "openai"
+          ]
+        },
+        {
+          "name": "gpt-5.6-sol",
+          "ratio": 2,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 4,
+          "outputPerMTok": 20,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "openai"
+          ]
+        },
+        {
+          "name": "gpt-6-astra",
+          "ratio": 5,
+          "completionRatio": 5,
+          "fixedPrice": null,
+          "inputPerMTok": 10,
+          "outputPerMTok": 50,
+          "groups": [
+            "default",
+            "Super"
+          ],
+          "protocols": [
+            "openai"
+          ]
+        }
+      ],
+      "modelsSource": "public-api",
+      "defaults": {
+        "claude": "claude-fable-5",
+        "openai": "gpt-6-astra"
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 1541,
+        "attempts": 1,
+        "url": "https://flushapi.fun/sign-up?aff=WBF3"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "kktoken",
+      "checkedAt": "2026-09-29T12:55:55.569Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 1984,
+      "error": null,
+      "systemName": "KKtoken AI",
+      "version": "v1.0.0-rc.25",
+      "registerOpen": true,
+      "passwordRegister": false,
+      "checkinEnabled": true,
+      "loginMethods": [
+        "GitHub",
+        "账号密码"
+      ],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": 500000,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 1735,
+        "attempts": 1,
+        "url": "https://kktoken.cc/sign-up?aff=MzG9"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "matrix",
+      "checkedAt": "2026-09-29T12:55:55.811Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 2225,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 2256,
+        "attempts": 1,
+        "url": "https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "anyrouter",
+      "checkedAt": "2026-09-29T12:56:01.520Z",
+      "apiOk": false,
+      "pricingOk": false,
+      "latencyMs": 156,
+      "error": "invalid json",
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 3103,
+        "attempts": 1,
+        "url": "https://anyrouter.top/register?aff=Z24N"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "cheapcodex",
+      "checkedAt": "2026-09-29T12:55:56.361Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 2775,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 2730,
+        "attempts": 1,
+        "url": "https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "nofx",
+      "checkedAt": "2026-09-29T12:55:57.043Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 3456,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 3209,
+        "attempts": 1,
+        "url": "https://nofx.one/zh-CN/sign-in?ref=J369GHY4"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    },
+    {
+      "id": "removed",
+      "checkedAt": "2026-09-29T16:32:43.228Z",
+      "apiOk": true,
+      "pricingOk": false,
+      "latencyMs": 2550,
+      "error": null,
+      "systemName": null,
+      "version": null,
+      "registerOpen": null,
+      "passwordRegister": null,
+      "checkinEnabled": null,
+      "loginMethods": [],
+      "githubMinAccountAgeDays": null,
+      "quotaPerUnit": null,
+      "inviteeBonusUsd": null,
+      "inviterBonusUsd": null,
+      "topupEnabled": null,
+      "services": [],
+      "announcements": [],
+      "models": [],
+      "modelsSource": "login-required",
+      "defaults": {
+        "claude": null,
+        "openai": null
+      },
+      "signup": {
+        "status": 200,
+        "ok": true,
+        "ms": 3530,
+        "attempts": 1,
+        "url": "https://your-endpoint.example.com/r/T8KiaeGU"
+      },
+      "mirrors": [],
+      "probeBlocked": false,
+      "online": true,
+      "dataStale": false,
+      "staleFrom": null,
+      "staleFields": []
+    }
+  ]
+}

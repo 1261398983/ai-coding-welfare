@@ -32,7 +32,7 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 | **AnyRouter** | Erreichbar | **$150** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | Erreichbar | **$40** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Erreichbar | **15 Punkte** | 5 Punkte/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **DSH API** | Erreichbar | **Nicht öffentlich angegeben** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://your-endpoint.example.com/r/T8KiaeGU) |
+| **removed** | Erreichbar | **Nicht öffentlich angegeben** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://your-endpoint.example.com/r/T8KiaeGU) |
 
 **Ungefähres USD-Guthaben am ersten Tag: $699.5 bei 7 Diensten, die neue Nutzer aufnehmen.**
 
@@ -476,7 +476,7 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 Nicht öffentlich angegeben
 
 [Vollständige Quellnotizen (Chinesisch)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
-## DSH API
+## removed
 
 AI-API-Relay-Aggregator. Eine einzige Base-URL bedient sowohl OpenAI-kompatible als auch Anthropic-kompatible Protokolle, sodass Claude Code und Codex CLI ohne Codeänderungen verbinden. Die Konsole listet eine CN-Modell-Gruppe mit 0,08x Listenpreis und eine open-ai-pro-Gruppe mit 0,22x.
 

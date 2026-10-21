@@ -32,7 +32,7 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 | **AnyRouter** | 到達可能 | **$150** | $25/日 · 毎日のチェックイン | [サービスを開く / 登録](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | 到達可能 | **$40** | $20/日 · 毎日のチェックイン | [サービスを開く / 登録](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | 到達可能 | **15 ポイント** | 5 ポイント/日 · 毎日のチェックイン | [サービスを開く / 登録](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **DSH API** | 到達可能 | **公表されていません** | 公表されていません | [サービスを開く / 登録](https://api.dshapi.icu/r/T8KiaeGU) |
+| **97wl** | 到達可能 | **公表されていません** | 公表されていません | [サービスを開く / 登録](https://api.97wl.cc/r/T8KiaeGU) |
 
 **初日の米ドル建てクレジット目安：新規登録を受け付ける 7 サービスで計 $699.5。**
 
@@ -476,11 +476,11 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 公表されていません
 
 [詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
-## DSH API
+## 97wl
 
 AI API 中継アグリゲーター。1 つの base URL で OpenAI 互換と Anthropic 互換の両プロトコルに対応し、Claude Code と Codex CLI はコード変更なしで接続できます。コンソールには国産モデルグループ 0.08x（定価の 8%）と open ai pro グループ 0.22x が表示されています。
 
-[サービスを開く / 登録](https://api.dshapi.icu/r/T8KiaeGU) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/dshapi/)
+[サービスを開く / 登録](https://api.97wl.cc/r/T8KiaeGU) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/97wl/)
 
 
 - **初日のクレジット / プラン**: 公表されていません
@@ -501,8 +501,8 @@ AI API 中継アグリゲーター。1 つの base URL で OpenAI 互換と Anth
 
 管理画面で API キーを作成し、自分のアカウントで利用可能なモデルを選んでください。Anthropic の Base URL には /v1 を付けません。OpenAI 互換 URL には通常 /v1 を付けます。プロトコルの入口があっても、すべてのモデルやクライアントに対応するとは限りません。
 
-- Anthropic Base URL: `https://api.dshapi.icu`
-- OpenAI Base URL: `https://api.dshapi.icu/v1`
+- Anthropic Base URL: `https://api.97wl.cc`
+- OpenAI Base URL: `https://api.97wl.cc/v1`
 
 ### 公開モデルデータ
 
@@ -510,7 +510,7 @@ AI API 中継アグリゲーター。1 つの base URL で OpenAI 互換と Anth
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/dshapi/)
+[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
 
 ## アーカイブ済みサービス
 

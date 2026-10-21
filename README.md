@@ -23,7 +23,7 @@
   <a href="https://anyrouter.top/register?aff=Z24N"><b>AnyRouter 注册</b></a> ·
   <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><b>CheapCodex 注册</b></a> ·
   <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><b>NOFX 注册</b></a> ·
-  <a href="https://api.dshapi.icu/r/T8KiaeGU"><b>DSH API 注册</b></a>
+  <a href="https://api.97wl.cc/r/T8KiaeGU"><b>97wl 注册</b></a>
 </p>
 
 <p align="center"><a href="https://panxunying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://panxunying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://panxunying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://panxunying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
@@ -50,7 +50,7 @@
 | **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=Z24N) | — |
 | **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) | — |
 | **NOFX** | 🟢 在线 | **15 积分** | 本页邀请 10 积分 + 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) | — |
-| **DSH API** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.dshapi.icu/r/T8KiaeGU) | — |
+| **97wl** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.97wl.cc/r/T8KiaeGU) | — |
 
 > **Mirasim Go套餐 $1/月：用量按每 5 小时估算，不是每月总次数。** 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 付费套餐不计入下方免费额度合计。[官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
 
@@ -1182,11 +1182,11 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 ---
 
-### 🟢 DSH API
+### 🟢 97wl
 
 > 中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic
 
-<a href="https://api.dshapi.icu/r/T8KiaeGU"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DSH%20API-brightgreen?style=for-the-badge" alt="注册 DSH API"></a>
+<a href="https://api.97wl.cc/r/T8KiaeGU"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DSH%20API-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
 
 **为什么值得注册**
 
@@ -1218,7 +1218,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 ```bash
 # macOS / Linux
-export ANTHROPIC_BASE_URL=https://api.dshapi.icu
+export ANTHROPIC_BASE_URL=https://api.97wl.cc
 export ANTHROPIC_AUTH_TOKEN=你在站点后台创建的 Key
 export ANTHROPIC_MODEL=<登录后台查看可用模型名>
 npm install -g @anthropic-ai/claude-code@latest && claude
@@ -1226,7 +1226,7 @@ npm install -g @anthropic-ai/claude-code@latest && claude
 
 ```powershell
 # Windows PowerShell
-$env:ANTHROPIC_BASE_URL = "https://api.dshapi.icu"
+$env:ANTHROPIC_BASE_URL = "https://api.97wl.cc"
 $env:ANTHROPIC_AUTH_TOKEN = "你在站点后台创建的 Key"
 $env:ANTHROPIC_MODEL = "<登录后台查看可用模型名>"
 claude
@@ -1238,12 +1238,12 @@ claude
 
 ```toml
 model = "<登录后台查看可用模型名>"
-model_provider = "dshapi"
+model_provider = "97wl"
 
-[model_providers.dshapi]
-name = "DSH API"
-base_url = "https://api.dshapi.icu/v1"
-env_key = "DSHAPI_API_KEY"
+[model_providers.97wl]
+name = "97wl"
+base_url = "https://api.97wl.cc/v1"
+env_key = "97wl_API_KEY"
 wire_api = "chat"
 ```
 
@@ -1254,19 +1254,19 @@ wire_api = "chat"
 ```python
 from openai import OpenAI
 
-client = OpenAI(api_key="你的 Key", base_url="https://api.dshapi.icu/v1")
+client = OpenAI(api_key="你的 Key", base_url="https://api.97wl.cc/v1")
 resp = client.chat.completions.create(model="<登录后台查看可用模型名>", messages=[{"role": "user", "content": "ping"}])
 print(resp.choices[0].message.content)
 ```
 
-通用客户端只需填两项：**Base URL** = `https://api.dshapi.icu/v1`，**API Key** = 站点后台创建的 Key。
+通用客户端只需填两项：**Base URL** = `https://api.97wl.cc/v1`，**API Key** = 站点后台创建的 Key。
 
 </details>
 
 <details><summary><b>连通性自测</b></summary>
 
 ```bash
-curl -s https://api.dshapi.icu/v1/chat/completions \
+curl -s https://api.97wl.cc/v1/chat/completions \
   -H "Authorization: Bearer $KEY" -H "Content-Type: application/json" \
   -d '{"model":"<登录后台查看可用模型名>","messages":[{"role":"user","content":"只回复 OK"}]}'
 ```

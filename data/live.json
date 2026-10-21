@@ -716,7 +716,7 @@
       "staleFields": []
     },
     {
-      "id": "dshapi",
+      "id": "97wl",
       "checkedAt": "2026-09-29T16:32:43.228Z",
       "apiOk": true,
       "pricingOk": false,
@@ -746,7 +746,7 @@
         "ok": true,
         "ms": 3530,
         "attempts": 1,
-        "url": "https://api.dshapi.icu/r/T8KiaeGU"
+        "url": "https://api.97wl.cc/r/T8KiaeGU"
       },
       "mirrors": [],
       "probeBlocked": false,

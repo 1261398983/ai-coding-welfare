@@ -145,7 +145,7 @@
       "registration": "Keep the full referral URL. Sign in through an email magic link or GitHub. Join Discord and select /verify and /checkin from the command menu; those rewards cannot be claimed without Discord. Get the API key and actual base URL from the authenticated dashboard.",
       "notes": "Points expire after 30 days; real API usage resets that period. Check-ins pause above a 50-point balance. Discord verification gives 5 points once (code valid for 30 minutes), referrals give 5 points per friend, and an approved X post gives 20 points once. The landing page advertises 20 signup points while the recorded referral rule gives 10: verify the actual award. No public points-to-USD conversion exists. Robots rules only permit checking public pages; models and prices require login."
     },
-    "dshapi": {
+    "97wl": {
       "summary": "AI API relay aggregator. One base URL serves both OpenAI-compatible and Anthropic-compatible protocols, so Claude Code and Codex CLI connect without code changes. Console lists a CN-model group at 0.08x list price and an open ai pro group at 0.22x.",
       "registration": "Email signup (QQ mail works). Use the full referral link because attribution happens at registration; no overseas phone number or foreign card required.",
       "notes": "Pay-as-you-go billing in CNY rather than a free credit grant. Model list and group multipliers come from the provider console. The panel exposes no public /api/status, so only /v1/models is probed - an unauthenticated 401 there is the liveness signal. Test the four endpoints yourself before moving real workloads."

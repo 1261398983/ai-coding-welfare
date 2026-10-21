@@ -1022,8 +1022,8 @@
       "community": []
     },
     {
-      "id": "dshapi",
-      "name": "DSH API",
+      "id": "97wl",
+      "name": "97wl",
       "subtitle": "中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic",
       "recommended": false,
       "panel": "relay",
@@ -1034,10 +1034,10 @@
         "approx": false,
         "note": "按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍"
       },
-      "signupUrl": "https://api.dshapi.icu/r/T8KiaeGU",
-      "homeUrl": "https://api.dshapi.icu",
+      "signupUrl": "https://api.97wl.cc/r/T8KiaeGU",
+      "homeUrl": "https://api.97wl.cc",
       "docsUrl": null,
-      "statusApi": "https://api.dshapi.icu/v1/models",
+      "statusApi": "https://api.97wl.cc/v1/models",
       "pricingApi": null,
       "mirrors": [],
       "tags": [
@@ -1056,8 +1056,8 @@
         "四个端点实测全通：1.61s / 2.19s / 2.37s / 3.94s"
       ],
       "endpoints": {
-        "anthropic": "https://api.dshapi.icu",
-        "openai": "https://api.dshapi.icu/v1"
+        "anthropic": "https://api.97wl.cc",
+        "openai": "https://api.97wl.cc/v1"
       },
       "modelsNote": "可用模型：deepseek-v4-flash $1/$4、deepseek-v4.1-flash $1/$4、deepseek-v4-pro $4.5/$13.5、glm-5.2 $8/$28、glm-5.3 $8/$28、glm-5.3-flash $0.8/$2.8、kimi-k2.8 $20/$100、kimi-k3 $20/$100、minimax-m3 $2.1/$8.4、hy3 $1/$4、hy4 $6/$18（单位：美元 / 百万 token，以上是未乘分组倍率的标价；国模分组 0.08x 后即为实付）。平台机器人公告价与官网一致，不掺水。",
       "register": {

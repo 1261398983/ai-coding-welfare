@@ -32,7 +32,7 @@ Claude Code, Codex और अन्य AI कोडिंग टूल के �
 | **AnyRouter** | पहुँच योग्य | **$150** | $25/दिन · दैनिक चेक-इन | [सेवा खोलें / पंजीकरण करें](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | पहुँच योग्य | **$40** | $20/दिन · दैनिक चेक-इन | [सेवा खोलें / पंजीकरण करें](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | पहुँच योग्य | **15 अंक** | 5 अंक/दिन · दैनिक चेक-इन | [सेवा खोलें / पंजीकरण करें](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **DSH API** | पहुँच योग्य | **सार्वजनिक रूप से नहीं बताया गया** | सार्वजनिक रूप से नहीं बताया गया | [सेवा खोलें / पंजीकरण करें](https://api.dshapi.icu/r/T8KiaeGU) |
+| **97wl** | पहुँच योग्य | **सार्वजनिक रूप से नहीं बताया गया** | सार्वजनिक रूप से नहीं बताया गया | [सेवा खोलें / पंजीकरण करें](https://api.97wl.cc/r/T8KiaeGU) |
 
 **नए उपयोगकर्ता स्वीकार करने वाली 7 सेवाओं में पहले दिन के अनुमानित USD क्रेडिट: $699.5।**
 
@@ -476,11 +476,11 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 सार्वजनिक रूप से नहीं बताया गया
 
 [पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
-## DSH API
+## 97wl
 
 AI API रिले एग्रीगेटर। एक ही base URL OpenAI-संगत और Anthropic-संगत दोनों प्रोटोकॉल चलाता है, इसलिए Claude Code और Codex CLI बिना कोड बदले जुड़ जाते हैं। कंसोल में CN-मॉडल समूह 0.08x (सूची मूल्य का 8%) और open ai pro समूह 0.22x दिखता है।
 
-[सेवा खोलें / पंजीकरण करें](https://api.dshapi.icu/r/T8KiaeGU) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/dshapi/)
+[सेवा खोलें / पंजीकरण करें](https://api.97wl.cc/r/T8KiaeGU) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/97wl/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: सार्वजनिक रूप से नहीं बताया गया
@@ -501,8 +501,8 @@ AI API रिले एग्रीगेटर। एक ही base URL OpenAI
 
 सेवा के डैशबोर्ड में API कुंजी बनाएँ और केवल अपने खाते के लिए उपलब्ध मॉडल इस्तेमाल करें। Anthropic Base URL में /v1 नहीं होता; OpenAI-संगत URL में आम तौर पर होता है। प्रोटोकॉल का endpoint उपलब्ध होना हर मॉडल या क्लाइंट के समर्थन की गारंटी नहीं है।
 
-- Anthropic Base URL: `https://api.dshapi.icu`
-- OpenAI Base URL: `https://api.dshapi.icu/v1`
+- Anthropic Base URL: `https://api.97wl.cc`
+- OpenAI Base URL: `https://api.97wl.cc/v1`
 
 ### सार्वजनिक मॉडल डेटा
 
@@ -510,7 +510,7 @@ AI API रिले एग्रीगेटर। एक ही base URL OpenAI
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/dshapi/)
+[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
 
 ## संग्रहित सेवाएँ
 

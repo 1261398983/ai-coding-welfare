@@ -145,7 +145,7 @@
       "registration": "Vollständigen Empfehlungslink beibehalten. Per E-Mail-Magic-Link oder GitHub anmelden. Discord beitreten und /verify sowie /checkin aus dem Befehlsmenü wählen; diese Prämien setzen Discord voraus. API-Schlüssel und tatsächliche Basis-URL im angemeldeten Dashboard abrufen.",
       "notes": "Punkte verfallen nach 30 Tagen; echte API-Nutzung setzt die Frist zurück. Check-ins pausieren bei mehr als 50 Punkten Guthaben. Discord-Verifizierung bringt einmalig 5 Punkte (Code 30 Minuten gültig), Empfehlungen 5 Punkte je Freund und ein genehmigter X-Beitrag einmalig 20. Die Startseite wirbt mit 20 Registrierungspunkten, die erfasste Empfehlungsregel nennt 10: tatsächliche Gutschrift prüfen. Keine öffentliche Umrechnung in USD. Robots-Regeln erlauben nur öffentliche Seitenprüfungen; Modelle und Preise erfordern Anmeldung."
     },
-    "dshapi": {
+    "97wl": {
       "summary": "AI-API-Relay-Aggregator. Eine einzige Base-URL bedient sowohl OpenAI-kompatible als auch Anthropic-kompatible Protokolle, sodass Claude Code und Codex CLI ohne Codeänderungen verbinden. Die Konsole listet eine CN-Modell-Gruppe mit 0,08x Listenpreis und eine open-ai-pro-Gruppe mit 0,22x.",
       "registration": "Registrierung per E-Mail (QQ Mail genügt). Bitte den vollständigen Empfehlungslink verwenden, da die Zuordnung bei der Registrierung erfolgt; keine ausländische Telefonnummer oder Karte nötig.",
       "notes": "Nutzungsbasierte Abrechnung in CNY statt kostenlosem Guthaben. Modellliste und Gruppenmultiplikatoren stammen aus der Anbieterkonsole. Ein öffentliches /api/status gibt es nicht, daher wird nur /v1/models geprüft - ein 401 ohne Schlüssel gilt als Lebenszeichen. Vor Produktivbetrieb die vier Endpunkte selbst testen."

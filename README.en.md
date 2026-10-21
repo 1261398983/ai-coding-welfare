@@ -32,7 +32,7 @@ A translated guide to the listed services. Amounts, model IDs, prices and referr
 | **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | Reachable | **$40** | $20/day · Daily check-in | [Open service / register](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Reachable | **15 points** | 5 points/day · Daily check-in | [Open service / register](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **DSH API** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://api.dshapi.icu/r/T8KiaeGU) |
+| **97wl** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://api.97wl.cc/r/T8KiaeGU) |
 
 **Indicative first-day USD credits: $699.5 across 7 services accepting new users.**
 
@@ -476,11 +476,11 @@ Only models returned by the public snapshot are listed; missing data does not me
 Not publicly specified
 
 [Full source notes (Chinese)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
-## DSH API
+## 97wl
 
 AI API relay aggregator. One base URL serves both OpenAI-compatible and Anthropic-compatible protocols, so Claude Code and Codex CLI connect without code changes. Console lists a CN-model group at 0.08x list price and an open ai pro group at 0.22x.
 
-[Open service / register](https://api.dshapi.icu/r/T8KiaeGU) · [Details](https://panxunying.github.io/ai-coding-welfare/en/sites/dshapi/)
+[Open service / register](https://api.97wl.cc/r/T8KiaeGU) · [Details](https://panxunying.github.io/ai-coding-welfare/en/sites/97wl/)
 
 
 - **First-day credits / plan**: Not publicly specified
@@ -501,8 +501,8 @@ Pay-as-you-go billing in CNY rather than a free credit grant. Model list and gro
 
 Create an API key in the service dashboard and use only a model listed for your account. Anthropic base URLs do not include /v1; OpenAI-compatible URLs usually do. A protocol endpoint does not guarantee access to every model or client.
 
-- Anthropic Base URL: `https://api.dshapi.icu`
-- OpenAI Base URL: `https://api.dshapi.icu/v1`
+- Anthropic Base URL: `https://api.97wl.cc`
+- OpenAI Base URL: `https://api.97wl.cc/v1`
 
 ### Public model snapshot
 
@@ -510,7 +510,7 @@ Only models returned by the public snapshot are listed; missing data does not me
 
 Not publicly specified
 
-[Full source notes (Chinese)](https://panxunying.github.io/ai-coding-welfare/sites/dshapi/)
+[Full source notes (Chinese)](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
 
 ## Archived services
 

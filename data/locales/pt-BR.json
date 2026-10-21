@@ -145,7 +145,7 @@
       "registration": "Preserve a URL completa. Entre por magic link de e-mail ou GitHub. Participe do Discord e selecione /verify e /checkin no menu de comandos; essas recompensas exigem Discord. Obtenha a chave e a URL base real no painel autenticado.",
       "notes": "Pontos expiram em 30 dias; uso real da API reinicia esse prazo. Check-ins pausam acima de 50 pontos. Verificação Discord dá 5 pontos uma vez (código válido por 30 minutos), indicação dá 5 por amigo e publicação aprovada no X dá 20 uma vez. A página anuncia 20 pontos no cadastro, mas a regra de indicação registrada dá 10: confira o crédito real. Não há conversão pública para USD. O robots permite apenas páginas públicas; modelos e preços exigem login."
     },
-    "dshapi": {
+    "97wl": {
       "summary": "Agregador de relay de API de IA. Uma única base URL atende protocolos compatíveis com OpenAI e com Anthropic, então Claude Code e Codex CLI conectam sem alterar código. O console lista um grupo de modelos CN a 0,08x do preço de tabela e um grupo open ai pro a 0,22x.",
       "registration": "Cadastro por e-mail (QQ Mail serve). Use o link de indicação completo, pois a atribuição ocorre no cadastro; não é preciso telefone ou cartão estrangeiro.",
       "notes": "Cobrança por uso em CNY em vez de crédito grátis. A lista de modelos e os multiplicadores de grupo vêm do console do provedor. Não há /api/status público, então apenas /v1/models é verificado - um 401 sem chave é o sinal de vida. Teste os quatro endpoints antes de cargas reais."

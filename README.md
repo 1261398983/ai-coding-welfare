@@ -1,5 +1,13 @@
 <h1 align="center">AI Coding 福利站导航</h1>
 
+
+> ### 🔗 本站作者自用的中转站
+>
+> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+
+
 **简体中文** · [English](README.en.md) · [हिन्दी](README.hi.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
 
 <p align="center">免费额度 · 白嫖 Claude Code / Codex / Cursor 的中转与公益站合集</p>
@@ -1398,3 +1406,20 @@ npm run check     # 校验链接是否还活着
 <sub>关键词：Claude Code 免费 · Claude Code 中转 · Codex 中转 · Codex 公益站 · AI API 中转站 · 公益站 · 免费 API 额度 · 每日免费额度 · claude-opus-5 API · New API · ArtBloom · Opus 5.5 免费额度 · AgentRouter · RawChat · Matrix 统一网关 · TaBiAI · GoRouter · KKtoken · AnyRouter · CheapCodex · NOFX 积分 · Mirasim Go · GPT-5.6 Sol 中转 · claude-opus-5 按次计费</sub>
 
 <!-- 本文件由 scripts/build.mjs 自动生成，请修改 data/sites.json 或 scripts/lib/render-readme.mjs -->
+
+---
+
+### 关于本站作者使用的中转站
+
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+
+- **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
+- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
+- **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
+- **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
+- **起充低** — 人民币 10 元起，可以先小额试
+
+👉 **https://api.97wl.cc/**
+
+> 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
+

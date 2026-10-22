@@ -3,9 +3,9 @@
 
 > ### 🔗 本站作者自用的中转站
 >
-> **[RELAY X](https://api.97wl.cc/)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
+> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
 > 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/)
+> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
 
 
 **简体中文** · [English](README.en.md) · [हिन्दी](README.hi.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
@@ -31,7 +31,7 @@
   <a href="https://anyrouter.top/register?aff=Z24N"><b>AnyRouter 注册</b></a> ·
   <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><b>CheapCodex 注册</b></a> ·
   <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><b>NOFX 注册</b></a> ·
-  <a href="https://api.97wl.cc/"><b>97wl 注册</b></a>
+  <a href="https://api.97wl.cc/register"><b>97wl 注册</b></a>
 </p>
 
 <p align="center"><a href="https://panxunying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://panxunying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://panxunying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://panxunying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
@@ -58,7 +58,7 @@
 | **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=Z24N) | — |
 | **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) | — |
 | **NOFX** | 🟢 在线 | **15 积分** | 本页邀请 10 积分 + 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) | — |
-| **97wl** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.97wl.cc/) | — |
+| **97wl** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.97wl.cc/register) | — |
 
 > **Mirasim Go套餐 $1/月：用量按每 5 小时估算，不是每月总次数。** 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 付费套餐不计入下方免费额度合计。[官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
 
@@ -1194,7 +1194,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic
 
-<a href="https://api.97wl.cc/"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DSH%20API-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
+<a href="https://api.97wl.cc/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DSH%20API-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
 
 **为什么值得注册**
 
@@ -1411,7 +1411,7 @@ npm run check     # 校验链接是否还活着
 
 ### 关于本站作者使用的中转站
 
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/)**：
+本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
 
 - **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
 - **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡

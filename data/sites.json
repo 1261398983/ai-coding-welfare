@@ -1034,7 +1034,7 @@
         "approx": false,
         "note": "按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍"
       },
-      "signupUrl": "https://api.97wl.cc/r/T8KiaeGU",
+      "signupUrl": "https://api.97wl.cc/register",
       "homeUrl": "https://api.97wl.cc",
       "docsUrl": null,
       "statusApi": "https://api.97wl.cc/v1/models",

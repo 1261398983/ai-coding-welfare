@@ -2,7 +2,7 @@
 
 AI Coding 福利站导航的自动变动记录：站点上下线、额度调整、模型与价格变化，由 CI 每 6 小时对比一次快照生成。
 
-订阅方式：[Atom feed](https://panxunying.github.io/ai-coding-welfare/feed.xml) · [Watch → Custom → Releases](https://github.com/panxunying/ai-coding-welfare/watchers) · 网页版 [变动日志](https://panxunying.github.io/ai-coding-welfare/changelog/)
+订阅方式：[Atom feed](https://1261398983.github.io/ai-coding-welfare/feed.xml) · [Watch → Custom → Releases](https://github.com/panxunying/ai-coding-welfare/watchers) · 网页版 [变动日志](https://1261398983.github.io/ai-coding-welfare/changelog/)
 
 > 只记录会影响「值不值得注册」的字段。探测被站点 WAF 拦下时不记在线状态变化，避免机房 IP 被拦被误报成掉线。
 

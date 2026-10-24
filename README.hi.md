@@ -4,7 +4,7 @@
 
 Claude Code, Codex और अन्य AI कोडिंग टूल के लिए सामुदायिक गेटवे, मुफ़्त API क्रेडिट और कम कीमत वाले प्लान।
 
-[वेबसाइट](https://panxunying.github.io/ai-coding-welfare/hi/) · [GitHub रिपॉज़िटरी](https://github.com/panxunying/ai-coding-welfare)
+[वेबसाइट](https://1261398983.github.io/ai-coding-welfare/hi/) · [GitHub रिपॉज़िटरी](https://github.com/panxunying/ai-coding-welfare)
 
 > [!TIP]
 > **📣 अपना प्रोजेक्ट साझा करें — Issues मुफ़्त प्रचार का माध्यम हैं**
@@ -15,7 +15,7 @@ Claude Code, Codex और अन्य AI कोडिंग टूल के �
 
 सूचीबद्ध सेवाओं की अनूदित मार्गदर्शिका। राशि, मॉडल ID, कीमतें और रेफ़रल URL चीनी संस्करण के समान डेटा से बनते हैं। विस्तृत तुलना, इतिहास, प्रदाता के दस्तावेज़ और कुछ सेवा इंटरफ़ेस अभी चीनी में हैं।
 
-**डेटा अपडेट:** 2026-10-24 01:48 UTC
+**डेटा अपडेट:** 2026-10-24 02:41 UTC
 
 ## सेवाओं की सूची
 
@@ -50,14 +50,14 @@ Claude Code, Codex और अन्य AI कोडिंग टूल के �
 
 OpenAI-संगत API सेवा, जो पंजीकरण के पहले दिन $100 का क्रेडिट देती है। सार्वजनिक मॉडल पृष्ठ पर Opus 5.5 (claude-opus-5-5) सूचीबद्ध है।
 
-[सेवा खोलें / पंजीकरण करें](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/artbloom/)
+[सेवा खोलें / पंजीकरण करें](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/artbloom/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: $100
 - **पंजीकरण**: $100
 - **दैनिक क्रेडिट**: सार्वजनिक रूप से नहीं बताया गया
 - **स्थिति**: जाँच विफल
-- **डेटा अपडेट**: 2026-10-24 01:48 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -81,12 +81,12 @@ OpenAI-संगत API सेवा, जो पंजीकरण के पह
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/artbloom/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/artbloom/)
 ## AgentRouter
 
 पंजीकरण, रेफ़रल और दैनिक चेक-इन क्रेडिट वाला सामुदायिक गेटवे; Anthropic और OpenAI-संगत endpoint।
 
-[सेवा खोलें / पंजीकरण करें](https://agentrouter.org/register?aff=szt3) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/agentrouter/)
+[सेवा खोलें / पंजीकरण करें](https://agentrouter.org/register?aff=szt3) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/agentrouter/)
 
 > पुराना सुरक्षित डेटा: पिछली जाँच में ताज़ा डेटा नहीं मिला। अंतिम सफल रिकॉर्ड: 2026-09-23 14:55 UTC।
 
@@ -126,12 +126,12 @@ OpenAI-संगत API सेवा, जो पंजीकरण के पह
 | deepseek-v4-flash | $4 | $12 | — | openai / anthropic |
 | gpt-6-astra | $4 | $20 | — | openai |
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/agentrouter/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/agentrouter/)
 ## DoCode
 
 Claude और GPT सेवाओं वाला New API गेटवे; बोनस आंतरिक साइट इकाइयों में है, अमेरिकी डॉलर में नहीं।
 
-[सेवा खोलें / पंजीकरण करें](https://ai.docode.life/register?aff=zMRe) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/docode/)
+[सेवा खोलें / पंजीकरण करें](https://ai.docode.life/register?aff=zMRe) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/docode/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: 300 साइट की इकाइयाँ (USD नहीं)
@@ -139,7 +139,7 @@ Claude और GPT सेवाओं वाला New API गेटवे; ब�
 - **रेफ़रल बोनस**: 250 साइट की इकाइयाँ (USD नहीं)
 - **दैनिक क्रेडिट**: चेक-इन नहीं
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -166,12 +166,12 @@ Claude और GPT सेवाओं वाला New API गेटवे; ब�
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/docode/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/docode/)
 ## JustDoWork
 
 GitHub लॉगिन, दैनिक चेक-इन और चित्र/टास्क इंटरफ़ेस वाला New API गेटवे।
 
-[सेवा खोलें / पंजीकरण करें](https://api.justwoker.icu/sign-up?aff=VTrz) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/justdowork/)
+[सेवा खोलें / पंजीकरण करें](https://api.justwoker.icu/sign-up?aff=VTrz) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/justdowork/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: ≈$92
@@ -179,7 +179,7 @@ GitHub लॉगिन, दैनिक चेक-इन और चित्र/
 - **दैनिक क्रेडिट**: ≈$22/दिन · दैनिक चेक-इन
 - **स्थिति**: पहुँच योग्य
 - **पंजीकरण**: केवल OAuth से पंजीकरण: GitHub
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -204,17 +204,17 @@ GitHub लॉगिन, दैनिक चेक-इन और चित्र/
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/justdowork/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/justdowork/)
 ## Mirasim
 
 सशुल्क Go प्लान वाला मल्टी-एजेंट कार्यक्षेत्र; अपने खाते या API कुंजियाँ जोड़ना मुफ़्त है, लेकिन बाहरी सेवाओं का उपयोग अलग से सशुल्क है।
 
-[सेवा खोलें / पंजीकरण करें](https://mirasim.ai/r/go-kx9cd5) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/mirasim/)
+[सेवा खोलें / पंजीकरण करें](https://mirasim.ai/r/go-kx9cd5) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/mirasim/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: Go · $1/माह
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 > हर 5 घंटे की अवधि के अनुमान
 > Kimi K3: लगभग 130 अनुरोध
@@ -245,12 +245,12 @@ Go के उपयोग अनुमान एक ही साझा को�
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/mirasim/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/mirasim/)
 ## FlushAPI
 
 GitHub पंजीकरण, सार्वजनिक मॉडल कीमतों और अलग default / Super बैलेंस वाला New API गेटवे।
 
-[सेवा खोलें / पंजीकरण करें](https://flushapi.fun/sign-up?aff=WBF3) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/flushapi/)
+[सेवा खोलें / पंजीकरण करें](https://flushapi.fun/sign-up?aff=WBF3) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/flushapi/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: $22.5
@@ -259,7 +259,7 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 - **दैनिक क्रेडिट**: चेक-इन चालू है; राशि सार्वजनिक नहीं
 - **स्थिति**: पहुँच योग्य
 - **पंजीकरण**: केवल OAuth से पंजीकरण: GitHub
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -292,12 +292,12 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 | gpt-5.6-sol | $4 | $20 | — | openai |
 | gpt-6-astra | $10 | $50 | — | openai |
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/flushapi/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 रेफ़रल क्रेडिट, दैनिक चेक-इन और टोकन आधारित बिलिंग वाला New API गेटवे।
 
-[सेवा खोलें / पंजीकरण करें](https://kktoken.cc/sign-up?aff=MzG9) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/kktoken/)
+[सेवा खोलें / पंजीकरण करें](https://kktoken.cc/sign-up?aff=MzG9) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/kktoken/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: $120
@@ -306,7 +306,7 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 - **दैनिक क्रेडिट**: $20/दिन · दैनिक चेक-इन
 - **स्थिति**: पहुँच योग्य
 - **पंजीकरण**: केवल OAuth से पंजीकरण: GitHub
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -331,19 +331,19 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/kktoken/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/kktoken/)
 ## Matrix
 
 आंतरिक अंकों, रेफ़रल और वैकल्पिक पहचान सत्यापन पुरस्कारों वाला OpenAI-संगत गेटवे व ऐप स्टोर।
 
-[सेवा खोलें / पंजीकरण करें](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/matrix/)
+[सेवा खोलें / पंजीकरण करें](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/matrix/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: 600 अंक
 - **रेफ़रल बोनस**: 600 अंक
 - **दैनिक क्रेडिट**: सार्वजनिक रूप से नहीं बताया गया
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -367,12 +367,12 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/matrix/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/matrix/)
 ## AnyRouter
 
 पंजीकरण/रेफ़रल क्रेडिट, दैनिक चेक-इन और Anthropic/OpenAI-संगत रूट वाला New API गेटवे।
 
-[सेवा खोलें / पंजीकरण करें](https://anyrouter.top/register?aff=Z24N) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/anyrouter/)
+[सेवा खोलें / पंजीकरण करें](https://anyrouter.top/register?aff=Z24N) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/anyrouter/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: $150
@@ -380,7 +380,7 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 - **रेफ़रल बोनस**: $50
 - **दैनिक क्रेडिट**: $25/दिन · दैनिक चेक-इन
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -404,19 +404,19 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/anyrouter/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/anyrouter/)
 ## CheapCodex
 
 रेफ़रल क्रेडिट, दैनिक चेक-इन और OpenAI, Anthropic व Responses रूट वाला AI गेटवे।
 
-[सेवा खोलें / पंजीकरण करें](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/cheapcodex/)
+[सेवा खोलें / पंजीकरण करें](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/cheapcodex/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: $40
 - **रेफ़रल बोनस**: $20
 - **दैनिक क्रेडिट**: $20/दिन · दैनिक चेक-इन
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -440,19 +440,19 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/cheapcodex/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 टास्क से API अंक, बिना पासवर्ड लॉगिन, Discord चेक-इन और रेफ़रल पुरस्कार; अंक USD नहीं हैं।
 
-[सेवा खोलें / पंजीकरण करें](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/nofx/)
+[सेवा खोलें / पंजीकरण करें](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/nofx/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: 15 अंक
 - **रेफ़रल बोनस**: 10 अंक
 - **दैनिक क्रेडिट**: 5 अंक/दिन · दैनिक चेक-इन
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -475,18 +475,18 @@ GitHub पंजीकरण, सार्वजनिक मॉडल कीम
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/nofx/)
 ## 97wl
 
 AI API रिले एग्रीगेटर। एक ही base URL OpenAI-संगत और Anthropic-संगत दोनों प्रोटोकॉल चलाता है, इसलिए Claude Code और Codex CLI बिना कोड बदले जुड़ जाते हैं। कंसोल में CN-मॉडल समूह 0.08x (सूची मूल्य का 8%) और open ai pro समूह 0.22x दिखता है।
 
-[सेवा खोलें / पंजीकरण करें](https://api.97wl.cc/r/T8KiaeGU) · [विवरण](https://panxunying.github.io/ai-coding-welfare/hi/sites/97wl/)
+[सेवा खोलें / पंजीकरण करें](https://api.97wl.cc/r/T8KiaeGU) · [विवरण](https://1261398983.github.io/ai-coding-welfare/hi/sites/97wl/)
 
 
 - **पहले दिन के क्रेडिट / प्लान**: सार्वजनिक रूप से नहीं बताया गया
 - **दैनिक क्रेडिट**: सार्वजनिक रूप से नहीं बताया गया
 - **स्थिति**: पहुँच योग्य
-- **डेटा अपडेट**: 2026-10-24 01:47 UTC
+- **डेटा अपडेट**: 2026-10-24 02:41 UTC
 
 
 ### पंजीकरण की शर्तें
@@ -510,15 +510,15 @@ AI API रिले एग्रीगेटर। एक ही base URL OpenAI
 
 सार्वजनिक रूप से नहीं बताया गया
 
-[पूरी मूल जानकारी (चीनी)](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
+[पूरी मूल जानकारी (चीनी)](https://1261398983.github.io/ai-coding-welfare/sites/97wl/)
 
 ## संग्रहित सेवाएँ
 
 अब पंजीकरण के लिए अनुशंसित नहीं, कुल में शामिल नहीं और स्वचालित जाँच भी नहीं होती। मूल कारण और इतिहास चीनी संस्करण में उपलब्ध हैं।
 
-- [gorouter](https://panxunying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
-- [tabitoken](https://panxunying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
-- [rawchat](https://panxunying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
+- [gorouter](https://1261398983.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
+- [tabitoken](https://1261398983.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
+- [rawchat](https://1261398983.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
 
 ## सुरक्षा और प्रकटीकरण
 

@@ -4,7 +4,7 @@
 
 Gateways comunitários, créditos de API gratuitos e planos econômicos para Claude Code, Codex e outras ferramentas de programação com IA.
 
-[Site](https://panxunying.github.io/ai-coding-welfare/pt-BR/) · [Repositório no GitHub](https://github.com/panxunying/ai-coding-welfare)
+[Site](https://1261398983.github.io/ai-coding-welfare/pt-BR/) · [Repositório no GitHub](https://github.com/panxunying/ai-coding-welfare)
 
 > [!TIP]
 > **📣 Divulgue seu projeto — as Issues são um espaço gratuito**
@@ -15,7 +15,7 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-10-24 01:48 UTC
+**Dados atualizados em:** 2026-10-24 02:41 UTC
 
 ## Visão geral
 
@@ -50,14 +50,14 @@ As regras de crédito são registradas manualmente a partir de comunicados; as A
 
 Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no primeiro dia do cadastro e lista o Opus 5.5 (claude-opus-5-5) na página pública de modelos.
 
-[Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/artbloom/)
+[Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/artbloom/)
 
 
 - **Créditos no primeiro dia / plano**: $100
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Falha na verificação
-- **Dados atualizados em**: 2026-10-24 01:48 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -81,12 +81,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/artbloom/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/artbloom/)
 ## AgentRouter
 
 Gateway comunitário com créditos de cadastro, indicação e check-in diário; endpoints Anthropic e compatíveis com OpenAI.
 
-[Abrir serviço / cadastrar](https://agentrouter.org/register?aff=szt3) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/agentrouter/)
+[Abrir serviço / cadastrar](https://agentrouter.org/register?aff=szt3) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/agentrouter/)
 
 > Dados em cache: a última verificação não obteve dados novos. Último registro bem-sucedido: 2026-09-23 14:55 UTC.
 
@@ -126,12 +126,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 | deepseek-v4-flash | $4 | $12 | — | openai / anthropic |
 | gpt-6-astra | $4 | $20 | — | openai |
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/agentrouter/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/agentrouter/)
 ## DoCode
 
 Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólares americanos.
 
-[Abrir serviço / cadastrar](https://ai.docode.life/register?aff=zMRe) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/docode/)
+[Abrir serviço / cadastrar](https://ai.docode.life/register?aff=zMRe) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/docode/)
 
 
 - **Créditos no primeiro dia / plano**: 300 unidades internas (não USD)
@@ -139,7 +139,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sem check-in
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -166,12 +166,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/docode/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/docode/)
 ## JustDoWork
 
 Gateway New API com login GitHub, check-ins diários e interfaces de imagens e tarefas.
 
-[Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/justdowork/)
+[Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/justdowork/)
 
 
 - **Créditos no primeiro dia / plano**: ≈$92
@@ -179,7 +179,7 @@ Gateway New API com login GitHub, check-ins diários e interfaces de imagens e t
 - **Créditos diários**: ≈$22/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -204,17 +204,17 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/justdowork/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/justdowork/)
 ## Mirasim
 
 Ambiente multiagente com plano Go pago; conectar suas próprias contas ou chaves é gratuito, mas o uso de terceiros é cobrado à parte.
 
-[Abrir serviço / cadastrar](https://mirasim.ai/r/go-kx9cd5) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/mirasim/)
+[Abrir serviço / cadastrar](https://mirasim.ai/r/go-kx9cd5) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/mirasim/)
 
 
 - **Créditos no primeiro dia / plano**: Go · $1/mês
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 > Estimativas por janela de 5 horas
 > Kimi K3: ≈130 requisições
@@ -245,12 +245,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/mirasim/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/mirasim/)
 ## FlushAPI
 
 Gateway New API com cadastro GitHub, preços públicos e saldos default / Super separados.
 
-[Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=WBF3) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/flushapi/)
+[Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=WBF3) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/flushapi/)
 
 
 - **Créditos no primeiro dia / plano**: $22.5
@@ -259,7 +259,7 @@ Gateway New API com cadastro GitHub, preços públicos e saldos default / Super 
 - **Créditos diários**: Check-in ativo; valor não divulgado
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -292,12 +292,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 | gpt-5.6-sol | $4 | $20 | — | openai |
 | gpt-6-astra | $10 | $50 | — | openai |
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/flushapi/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 Gateway New API com créditos de indicação, check-ins diários e cobrança por token.
 
-[Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=MzG9) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/kktoken/)
+[Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=MzG9) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/kktoken/)
 
 
 - **Créditos no primeiro dia / plano**: $120
@@ -306,7 +306,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -331,19 +331,19 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/kktoken/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/kktoken/)
 ## Matrix
 
 Gateway compatível com OpenAI e loja de apps com pontos internos, indicações e verificação de identidade opcional.
 
-[Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/matrix/)
+[Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/matrix/)
 
 
 - **Créditos no primeiro dia / plano**: 600 pontos
 - **Bônus de indicação**: 600 pontos
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -367,12 +367,12 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/matrix/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/matrix/)
 ## AnyRouter
 
 Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas Anthropic/OpenAI.
 
-[Abrir serviço / cadastrar](https://anyrouter.top/register?aff=Z24N) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/anyrouter/)
+[Abrir serviço / cadastrar](https://anyrouter.top/register?aff=Z24N) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/anyrouter/)
 
 
 - **Créditos no primeiro dia / plano**: $150
@@ -380,7 +380,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -404,19 +404,19 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/anyrouter/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/anyrouter/)
 ## CheapCodex
 
 Gateway de IA com créditos de indicação, check-ins e rotas OpenAI, Anthropic e Responses.
 
-[Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/cheapcodex/)
+[Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/cheapcodex/)
 
 
 - **Créditos no primeiro dia / plano**: $40
 - **Bônus de indicação**: $20
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -440,19 +440,19 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/cheapcodex/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; pontos não são USD.
 
-[Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/nofx/)
+[Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/nofx/)
 
 
 - **Créditos no primeiro dia / plano**: 15 pontos
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -475,18 +475,18 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/nofx/)
 ## 97wl
 
 Agregador de relay de API de IA. Uma única base URL atende protocolos compatíveis com OpenAI e com Anthropic, então Claude Code e Codex CLI conectam sem alterar código. O console lista um grupo de modelos CN a 0,08x do preço de tabela e um grupo open ai pro a 0,22x.
 
-[Abrir serviço / cadastrar](https://api.97wl.cc/r/T8KiaeGU) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/97wl/)
+[Abrir serviço / cadastrar](https://api.97wl.cc/r/T8KiaeGU) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/97wl/)
 
 
 - **Créditos no primeiro dia / plano**: Não divulgado publicamente
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-10-24 01:47 UTC
+- **Dados atualizados em**: 2026-10-24 02:41 UTC
 
 
 ### Requisitos de cadastro
@@ -510,15 +510,15 @@ Somente modelos retornados pelos dados públicos são listados; a ausência de d
 
 Não divulgado publicamente
 
-[Notas completas da fonte (chinês)](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
+[Notas completas da fonte (chinês)](https://1261398983.github.io/ai-coding-welfare/sites/97wl/)
 
 ## Serviços arquivados
 
 Não são mais recomendados para cadastro, incluídos nos totais ou verificados automaticamente. Os motivos originais e o histórico permanecem na edição chinesa.
 
-- [gorouter](https://panxunying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
-- [tabitoken](https://panxunying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
-- [rawchat](https://panxunying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
+- [gorouter](https://1261398983.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
+- [tabitoken](https://1261398983.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
+- [rawchat](https://1261398983.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
 
 ## Segurança e transparência
 

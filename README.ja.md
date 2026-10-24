@@ -4,7 +4,7 @@
 
 Claude Code、Codex などで使えるコミュニティ運営のゲートウェイ、無料 API クレジット、低価格プランを紹介します。
 
-[ウェブサイト](https://panxunying.github.io/ai-coding-welfare/ja/) · [GitHub リポジトリ](https://github.com/panxunying/ai-coding-welfare)
+[ウェブサイト](https://1261398983.github.io/ai-coding-welfare/ja/) · [GitHub リポジトリ](https://github.com/panxunying/ai-coding-welfare)
 
 > [!TIP]
 > **📣 サービスの紹介を歓迎します — Issue は無料の宣伝スペースです**
@@ -15,7 +15,7 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 
 掲載サービスの翻訳ガイドです。金額、モデル ID、料金、紹介 URL は中国語版と同じデータから生成しています。詳細比較、履歴、提供元のドキュメント、一部のサービス画面は中国語のままです。
 
-**データ更新日時:** 2026-10-24 01:48 UTC
+**データ更新日時:** 2026-10-24 02:41 UTC
 
 ## サービス一覧
 
@@ -50,14 +50,14 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 
 登録初日に 100 米ドル分のクレジットを提供する OpenAI 互換 API サービス。公開モデルページに Opus 5.5（claude-opus-5-5）が掲載されています。
 
-[サービスを開く / 登録](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/artbloom/)
+[サービスを開く / 登録](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/artbloom/)
 
 
 - **初日のクレジット / プラン**: $100
 - **登録特典**: $100
 - **毎日のクレジット**: 公表されていません
 - **状態**: 確認に失敗
-- **データ更新日時**: 2026-10-24 01:48 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -81,12 +81,12 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/artbloom/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/artbloom/)
 ## AgentRouter
 
 登録・紹介・毎日のチェックイン特典があるコミュニティゲートウェイ。Anthropic と OpenAI 互換のエンドポイントを提供。
 
-[サービスを開く / 登録](https://agentrouter.org/register?aff=szt3) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/agentrouter/)
+[サービスを開く / 登録](https://agentrouter.org/register?aff=szt3) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/agentrouter/)
 
 > キャッシュ済みデータ：直近の確認では新しいデータを取得できませんでした。最後に取得できた日時：2026-09-23 14:55 UTC。
 
@@ -126,12 +126,12 @@ Claude Code、Codex などで使えるコミュニティ運営のゲートウェ
 | deepseek-v4-flash | $4 | $12 | — | openai / anthropic |
 | gpt-6-astra | $4 | $20 | — | openai |
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/agentrouter/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/agentrouter/)
 ## DoCode
 
 Claude と GPT を扱う New API ゲートウェイ。特典は米ドルではなくサイト内単位です。
 
-[サービスを開く / 登録](https://ai.docode.life/register?aff=zMRe) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/docode/)
+[サービスを開く / 登録](https://ai.docode.life/register?aff=zMRe) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/docode/)
 
 
 - **初日のクレジット / プラン**: 300 サイト内単位（米ドルではありません）
@@ -139,7 +139,7 @@ Claude と GPT を扱う New API ゲートウェイ。特典は米ドルでは�
 - **紹介特典**: 250 サイト内単位（米ドルではありません）
 - **毎日のクレジット**: チェックインなし
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -166,12 +166,12 @@ Claude と GPT を扱う New API ゲートウェイ。特典は米ドルでは�
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/docode/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/docode/)
 ## JustDoWork
 
 GitHub ログイン、毎日のチェックイン、画像・タスク API を備えた New API ゲートウェイ。
 
-[サービスを開く / 登録](https://api.justwoker.icu/sign-up?aff=VTrz) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/justdowork/)
+[サービスを開く / 登録](https://api.justwoker.icu/sign-up?aff=VTrz) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/justdowork/)
 
 
 - **初日のクレジット / プラン**: ≈$92
@@ -179,7 +179,7 @@ GitHub ログイン、毎日のチェックイン、画像・タスク API を�
 - **毎日のクレジット**: ≈$22/日 · 毎日のチェックイン
 - **状態**: 到達可能
 - **登録特典**: OAuth のみで登録可能：GitHub
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -204,17 +204,17 @@ GitHub OAuth のみで、アカウント作成から 365 日以上が必要で�
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/justdowork/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/justdowork/)
 ## Mirasim
 
 有料 Go プランを持つマルチエージェント作業環境。自分のアカウントやキーの接続は無料ですが、外部サービスの利用料は別です。
 
-[サービスを開く / 登録](https://mirasim.ai/r/go-kx9cd5) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/mirasim/)
+[サービスを開く / 登録](https://mirasim.ai/r/go-kx9cd5) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/mirasim/)
 
 
 - **初日のクレジット / プラン**: Go · $1/月
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 > 5 時間ごとの推定利用量
 > Kimi K3: 約 130 回
@@ -245,12 +245,12 @@ Go の利用量目安は共通枠の換算値で、合算できません。招�
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/mirasim/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/mirasim/)
 ## FlushAPI
 
 GitHub 登録、公開モデル料金、独立した default / Super 残高を備える New API ゲートウェイ。
 
-[サービスを開く / 登録](https://flushapi.fun/sign-up?aff=WBF3) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/flushapi/)
+[サービスを開く / 登録](https://flushapi.fun/sign-up?aff=WBF3) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/flushapi/)
 
 
 - **初日のクレジット / プラン**: $22.5
@@ -259,7 +259,7 @@ GitHub 登録、公開モデル料金、独立した default / Super 残高を�
 - **毎日のクレジット**: チェックイン有効・付与額非公開
 - **状態**: 到達可能
 - **登録特典**: OAuth のみで登録可能：GitHub
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -292,12 +292,12 @@ GitHub OAuth のみ。メールとパスワードによる新規登録は無効�
 | gpt-5.6-sol | $4 | $20 | — | openai |
 | gpt-6-astra | $10 | $50 | — | openai |
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/flushapi/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/flushapi/)
 ## KKtoken AI
 
 紹介特典、毎日のチェックイン、トークン従量課金の New API ゲートウェイ。
 
-[サービスを開く / 登録](https://kktoken.cc/sign-up?aff=MzG9) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/kktoken/)
+[サービスを開く / 登録](https://kktoken.cc/sign-up?aff=MzG9) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/kktoken/)
 
 
 - **初日のクレジット / プラン**: $120
@@ -306,7 +306,7 @@ GitHub OAuth のみ。メールとパスワードによる新規登録は無効�
 - **毎日のクレジット**: $20/日 · 毎日のチェックイン
 - **状態**: 到達可能
 - **登録特典**: OAuth のみで登録可能：GitHub
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -331,19 +331,19 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/kktoken/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/kktoken/)
 ## Matrix
 
 サイト内ポイントを使う OpenAI 互換ゲートウェイとアプリストア。紹介と任意の本人確認による特典があります。
 
-[サービスを開く / 登録](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/matrix/)
+[サービスを開く / 登録](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/matrix/)
 
 
 - **初日のクレジット / プラン**: 600 ポイント
 - **紹介特典**: 600 ポイント
 - **毎日のクレジット**: 公表されていません
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -367,12 +367,12 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/matrix/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/matrix/)
 ## AnyRouter
 
 登録・紹介・日次チェックイン特典と Anthropic / OpenAI 互換ルートを持つ New API ゲートウェイ。
 
-[サービスを開く / 登録](https://anyrouter.top/register?aff=Z24N) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/anyrouter/)
+[サービスを開く / 登録](https://anyrouter.top/register?aff=Z24N) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/anyrouter/)
 
 
 - **初日のクレジット / プラン**: $150
@@ -380,7 +380,7 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 - **紹介特典**: $50
 - **毎日のクレジット**: $25/日 · 毎日のチェックイン
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -404,19 +404,19 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/anyrouter/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/anyrouter/)
 ## CheapCodex
 
 紹介・チェックイン特典と OpenAI、Anthropic、Responses ルートを備える AI ゲートウェイ。
 
-[サービスを開く / 登録](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/cheapcodex/)
+[サービスを開く / 登録](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/cheapcodex/)
 
 
 - **初日のクレジット / プラン**: $40
 - **紹介特典**: $20
 - **毎日のクレジット**: $20/日 · 毎日のチェックイン
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -440,19 +440,19 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/cheapcodex/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/cheapcodex/)
 ## NOFX
 
 タスクで API ポイントを得るサービス。パスワード不要のログイン、Discord チェックイン、紹介特典に対応。ポイントは米ドルではありません。
 
-[サービスを開く / 登録](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/nofx/)
+[サービスを開く / 登録](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/nofx/)
 
 
 - **初日のクレジット / プラン**: 15 ポイント
 - **紹介特典**: 10 ポイント
 - **毎日のクレジット**: 5 ポイント/日 · 毎日のチェックイン
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -475,18 +475,18 @@ GitHub OAuth のみ。作成から 365 日以上のアカウントと Cloudflare
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/nofx/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/nofx/)
 ## 97wl
 
 AI API 中継アグリゲーター。1 つの base URL で OpenAI 互換と Anthropic 互換の両プロトコルに対応し、Claude Code と Codex CLI はコード変更なしで接続できます。コンソールには国産モデルグループ 0.08x（定価の 8%）と open ai pro グループ 0.22x が表示されています。
 
-[サービスを開く / 登録](https://api.97wl.cc/r/T8KiaeGU) · [詳細](https://panxunying.github.io/ai-coding-welfare/ja/sites/97wl/)
+[サービスを開く / 登録](https://api.97wl.cc/r/T8KiaeGU) · [詳細](https://1261398983.github.io/ai-coding-welfare/ja/sites/97wl/)
 
 
 - **初日のクレジット / プラン**: 公表されていません
 - **毎日のクレジット**: 公表されていません
 - **状態**: 到達可能
-- **データ更新日時**: 2026-10-24 01:47 UTC
+- **データ更新日時**: 2026-10-24 02:41 UTC
 
 
 ### 登録条件
@@ -510,15 +510,15 @@ AI API 中継アグリゲーター。1 つの base URL で OpenAI 互換と Anth
 
 公表されていません
 
-[詳細な原文（中国語）](https://panxunying.github.io/ai-coding-welfare/sites/97wl/)
+[詳細な原文（中国語）](https://1261398983.github.io/ai-coding-welfare/sites/97wl/)
 
 ## アーカイブ済みサービス
 
 登録の推奨、合計への算入、自動確認を停止しています。元の理由と履歴は中国語版に残しています。
 
-- [gorouter](https://panxunying.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
-- [tabitoken](https://panxunying.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
-- [rawchat](https://panxunying.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
+- [gorouter](https://1261398983.github.io/ai-coding-welfare/sites/gorouter/) · 2026-09-21
+- [tabitoken](https://1261398983.github.io/ai-coding-welfare/sites/tabitoken/) · 2026-09-21
+- [rawchat](https://1261398983.github.io/ai-coding-welfare/sites/rawchat/) · 2026-09-21
 
 ## 安全性と開示事項
 

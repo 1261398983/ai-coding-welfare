@@ -1034,7 +1034,7 @@
         "approx": false,
         "note": "按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍"
       },
-      "signupUrl": "https://your-endpoint.example.com/r/T8KiaeGU",
+      "signupUrl": "",
       "homeUrl": "https://your-endpoint.example.com",
       "docsUrl": null,
       "statusApi": "https://your-endpoint.example.com/v1/models",

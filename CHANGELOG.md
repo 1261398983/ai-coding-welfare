@@ -6,6 +6,14 @@ AI Coding 福利站导航的自动变动记录：站点上下线、额度调整�
 
 > 只记录会影响「值不值得注册」的字段。探测被站点 WAF 拦下时不记在线状态变化，避免机房 IP 被拦被误报成掉线。
 
+## 2026-10-24
+
+- 🔴 ArtBloom 探测不到了：注册页与公开接口都没响应 <sub>01:41 UTC</sub>
+- 📢 DoCode 发了公告：Gemini Ultra分组上架，仅Gemini 4 Argon，高中低三档模型 <sub>01:41 UTC</sub>
+- 📢 DoCode 发了公告：-已修复好！ 生图功能暂时不可用，原因为 OpenAI 官方协议变更。 预计这两天修复好 <sub>01:41 UTC</sub>
+- 📢 DoCode 发了公告：gpt 全系已大幅下调倍率，gptpro 最低 7 倍，不降智最低 15 倍，官 key 最低 24 倍。 <sub>01:41 UTC</sub>
+- 📢 DoCode 发了公告：最近上线模型：gpt-6.1-sol、claude-opus-5-5、claude-sonnet-5-5 <sub>01:41 UTC</sub>
+
 ## 2026-09-29
 
 - ➕ FlushAPI 上线模型：claude-sonnet-5 <sub>05:46 UTC</sub>

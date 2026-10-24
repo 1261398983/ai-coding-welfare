@@ -1,22 +1,14 @@
 <h1 align="center">AI Coding 福利站导航</h1>
 
-
-> ### 🔗 本站作者自用的中转站
->
-> **[RELAY X](https://api.97wl.cc/register)** — 一个 [OI] 兼容端点统管 Claude / GPT / Gemini / Grok。
-> 注册只需 QQ 邮箱，无需邀请码、无需外币卡；按量计费，输入输出分开计价，倍率在控制台公开。
-> [[CC] 改两行环境变量即可接入 →](https://api.97wl.cc/register)
-
-
 **简体中文** · [English](README.en.md) · [हिन्दी](README.hi.md) · [Português (Brasil)](README.pt-BR.md) · [日本語](README.ja.md) · [Deutsch](README.de.md)
 
 <p align="center">免费额度 · 白嫖 Claude Code / Codex / Cursor 的中转与公益站合集</p>
 
 <p align="center">
   <img src="https://img.shields.io/badge/%E6%94%B6%E5%BD%95%E7%AB%99%E7%82%B9-12%20%E4%B8%AA-blue" alt="收录站点">
-  <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF-12%2F12-brightgreen" alt="在线">
+  <img src="https://img.shields.io/badge/%E5%9C%A8%E7%BA%BF-11%2F12-orange" alt="在线">
   <img src="https://img.shields.io/badge/%E9%A6%96%E6%97%A5%E5%8F%AF%E5%BE%97-%E6%9C%80%E9%AB%98%20%24175-success" alt="首日可得">
-  <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0-2026--09--29%2012.56%20UTC-informational" alt="数据更新">
+  <img src="https://img.shields.io/badge/%E6%95%B0%E6%8D%AE%E6%9B%B4%E6%96%B0-2026--10--24%2001.41%20UTC-informational" alt="数据更新">
 </p>
 
 <p align="center">
@@ -31,7 +23,7 @@
   <a href="https://anyrouter.top/register?aff=Z24N"><b>AnyRouter 注册</b></a> ·
   <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><b>CheapCodex 注册</b></a> ·
   <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><b>NOFX 注册</b></a> ·
-  <a href="https://api.97wl.cc/register"><b>97wl 注册</b></a>
+  <a href="https://api.97wl.cc/r/T8KiaeGU"><b>97wl 注册</b></a>
 </p>
 
 <p align="center"><a href="https://panxunying.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://panxunying.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://panxunying.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://panxunying.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
@@ -47,7 +39,7 @@
 
 | 站点 | 状态 | 首日可得 / 套餐 | 额度构成 / 用量 | 每日 / 周期 | 兼容协议 | 模型 | 注册 | 邀请码 |
 | :-- | :--: | :--: | :-- | :--: | :--: | :--: | :--: | :--: |
-| **ArtBloom** 🔥 | 🟢 在线 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) | — |
+| **ArtBloom** 🔥 | 🔴 异常 | **$100** | 注册 $100 | — | OpenAI | **支持 Opus 5.5** | [点此注册 →](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) | — |
 | **AgentRouter** | 🟢 在线 | **$175** | 注册 $100 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 4 个可查 | [点此注册 →](https://agentrouter.org/register?aff=szt3) | — |
 | **DoCode** | 🟢 在线 | **300 站内刀** | 注册 50 站内刀 + 本页邀请 250 站内刀 | 无签到 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://ai.docode.life/register?aff=zMRe) | `zMRe` |
 | **JustDoWork** | 🟢 在线 | **≈$92** | 注册 $70 + 首签 ≈$22 | ≈$22/天 | Anthropic + OpenAI | 需登录查看 | [GitHub 注册 →](https://api.justwoker.icu/sign-up?aff=VTrz) | — |
@@ -58,11 +50,11 @@
 | **AnyRouter** | 🟢 在线 | **$150** | 注册 $75 + 本页邀请 $50 + 首签 $25 | $25/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://anyrouter.top/register?aff=Z24N) | — |
 | **CheapCodex** | 🟢 在线 | **$40** | 本页邀请 $20 + 首签 $20 | $20/天 | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) | — |
 | **NOFX** | 🟢 在线 | **15 积分** | 本页邀请 10 积分 + 首签 5 积分 | 5 积分/天 | OpenAI 兼容 | 需登录查看 | [点此注册 →](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) | — |
-| **97wl** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.97wl.cc/register) | — |
+| **97wl** | 🟢 在线 | 按量计费（人民币），无固定赠额；实测 1 元人民币跑出的 token 量约为官网同等价的 10 倍 | — | — | Anthropic + OpenAI | 需登录查看 | [点此注册 →](https://api.97wl.cc/r/T8KiaeGU) | — |
 
 > **Mirasim Go套餐 $1/月：用量按每 5 小时估算，不是每月总次数。** 官网估算，共享额度按模型折算，各模型次数不可相加；实际用量以站内为准。 付费套餐不计入下方免费额度合计。[官网定价](https://mirasim.ai/pricing)（2026-09-23 核对）。
 
-> 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-09-29 12:56 UTC`。
+> 「首日可得」= 注册基础额度 + 本页邀请链接额度 + 当天能领的签到额度（每日重置额度池的站点按一天的池子算）；模型、价格、在线状态由脚本抓取站点公开接口自动生成，最后更新：`2026-10-24 01:41 UTC`。
 >
 > 「邀请码」列写了码的站（DoCode `zMRe`），注册表单里有一栏要**自己填**，漏填就只拿得到注册基础额度、事后补不上；其余站写 — 表示未登记需要手填的邀请码，邀请奖励与条件请看站点详情。
 >
@@ -89,7 +81,7 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 ## 📚 站点详情
 
 
-### 🟢 ArtBloom 🔥 首推
+### 🔴 ArtBloom 🔥 首推
 
 > 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册
 
@@ -108,7 +100,7 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：854 ms
+- 接口延迟：10492 ms
 
 > 2026-09-28 核对公开模型页：Opus 5.5 的模型 ID 为 claude-opus-5-5，输入 $2 / 百万 tokens、输出 $10 / 百万 tokens；另列有 claude-opus-5、DeepSeek-V4-Flash、kimi-k3。通过 OpenAI 兼容的 /v1/chat/completions 调用，完整模型与实时价格见 https://api.artbloom.tech/models。
 
@@ -182,7 +174,7 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- ⚠ 接口已连续 146 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
+- ⚠ 接口已连续 731 小时没抓到新数据，下列信息为 `2026-09-23 14:55 UTC` 的快照
 - 站点名称：**Agent Router**
 - 面板版本：`init-20260918-cbda758f`
 - 邀请他人可得：**$50**
@@ -325,7 +317,7 @@ curl -s https://agentrouter.org/v1/chat/completions \
 - 每日签到：❌
 - 开放注册：✅
 - 登录方式：账号密码
-- 接口延迟：562 ms
+- 接口延迟：834 ms
 
 **镜像 / 备用入口**
 
@@ -419,9 +411,9 @@ curl -s https://docode.cc/v1/chat/completions \
 
 <details><summary><b>站点最新公告</b>（自动同步）</summary>
 
-- `2026-09-22` 中秋节活动预告：中秋节当天凡是 vip500，赠送 1500 额度；vip1000，赠送 3000 额度，；vip2000，赠送 5000 额度。中秋节三天，充值加赠 5-20%。
-- `2026-09-21` gptpro+分组即将下线，请及时切换至其他分组，推荐gpt不降智分组！！！
-- `2026-09-18` 免费期间，可选择gpt与grok模型，总量为2W额度，用完即止，次日9点恢复，如使用问题请进群联系管理.
+- `2026-10-22` Gemini Ultra分组上架，仅Gemini 4 Argon，高中低三档模型
+- `2026-10-15` -已修复好！ 生图功能暂时不可用，原因为 OpenAI 官方协议变更。 预计这两天修复好
+- `2026-10-09` gpt 全系已大幅下调倍率，gptpro 最低 7 倍，不降智最低 15 倍，官 key 最低 24 倍。
 
 </details>
 
@@ -455,7 +447,7 @@ curl -s https://docode.cc/v1/chat/completions \
 - 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
 - 登录方式：GitHub / 账号密码
 - GitHub 账号需满 **365 天**
-- 接口延迟：627 ms
+- 接口延迟：854 ms
 
 > 该站模型清单需登录后台查看，注册后在「模型价格」页确认。
 
@@ -570,7 +562,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：924 ms
+- 接口延迟：831 ms
 
 > Go 的 $1/月套餐包含 Kimi K3、GLM 5.3 Flash、DS 4.1 Flash。定价页按每 5 小时给出约 130 / 1,900 / 7,800 次的请求量估算，不是整月只有这些次数。三项共用同一份套餐额度、不能相加，也不是保证次数；本页不外推为每天或每月的固定总量。Claude / Codex 对应的 Basic、Pro、Max 是另列的套餐，不属于 $1 Go 的承诺。
 
@@ -639,7 +631,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 - 每日签到：✅
 - 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
 - 登录方式：GitHub / 账号密码
-- 接口延迟：1522 ms
+- 接口延迟：1289 ms
 
 **当前可用模型**
 
@@ -764,7 +756,7 @@ curl -s https://flushapi.fun/v1/chat/completions \
 - 每日签到：✅
 - 开放注册：✅（站点关掉了邮箱密码注册，得用 GitHub 登录建号（防批量注册的常规做法）。）
 - 登录方式：GitHub / 账号密码
-- 接口延迟：1984 ms
+- 接口延迟：1012 ms
 
 > 该站把价格页设成了登录可见（`/api/pricing` 返回 401），本页不列模型表。站内公示的计价口径是输入 $1 / 百万 tokens、输出 $1 / 百万 tokens，按 token 而不是按次，注册后在控制台「模型价格」页确认实际清单与倍率。
 
@@ -870,7 +862,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：2225 ms
+- 接口延迟：1649 ms
 
 > 模型清单与价格需登录后在控制台「模型列表」查看（按每百万 Tokens 计价，可按厂商 / 上下文窗口筛选），站点没有公开的模型与定价接口，本页不做承诺。
 
@@ -936,7 +928,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：156 ms
+- 接口延迟：157 ms
 
 > 整站（含 `/api/status`、`/api/pricing`、robots.txt 与注册页）都挂在 JS 人机挑战后面，返回的是 `var arg1=...` 的挑战页而不是 JSON，公开接口读不到模型清单，本页不列模型表。站内公示的计价口径是输入 $5 / 百万 tokens、输出 $25 / 百万 tokens，并公示支持 GPT-5.6 Sol，注册后在控制台「模型价格」页确认实际清单与倍率。
 
@@ -1044,7 +1036,7 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：2775 ms
+- 接口延迟：1774 ms
 
 > 这个站的面板接口在它自己的 robots.txt 里是 `Disallow: /api`，本页按规矩不碰，所以拿不到模型清单与单价，只探 robots 放行的 `/v1/models`（不带 key 必然回 `API_KEY_REQUIRED`，能回就说明网关活着）。站内公示可以用 GPT-5.6 Sol，完整清单与价格注册后在控制台确认。
 
@@ -1151,7 +1143,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：3456 ms
+- 接口延迟：3020 ms
 
 > 站点公开面只有落地页和法律条款两类页面（sitemap 里就这几条），模型清单、单价与中转地址都在登录后的「接入文档」里，所以本页既不列模型表也不猜 Base URL。计费单位是站内积分，站点界面把它写成「$5 积分」；据反馈约 5 积分换 7M tokens 左右，并公示可以用 gpt-5.6-sol —— 都以站内实际为准。
 
@@ -1194,7 +1186,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic
 
-<a href="https://api.97wl.cc/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DSH%20API-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
+<a href="https://api.97wl.cc/r/T8KiaeGU"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-97wl-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
 
 **为什么值得注册**
 
@@ -1210,7 +1202,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 **实时数据**（自动抓取站点公开接口）
 
-- 接口延迟：2550 ms
+- 接口延迟：2032 ms
 
 > 可用模型：deepseek-v4-flash $1/$4、deepseek-v4.1-flash $1/$4、deepseek-v4-pro $4.5/$13.5、glm-5.2 $8/$28、glm-5.3 $8/$28、glm-5.3-flash $0.8/$2.8、kimi-k2.8 $20/$100、kimi-k3 $20/$100、minimax-m3 $2.1/$8.4、hy3 $1/$4、hy4 $6/$18（单位：美元 / 百万 token，以上是未乘分组倍率的标价；国模分组 0.08x 后即为实付）。平台机器人公告价与官网一致，不掺水。
 
@@ -1251,7 +1243,7 @@ model_provider = "97wl"
 [model_providers.97wl]
 name = "97wl"
 base_url = "https://api.97wl.cc/v1"
-env_key = "97wl_API_KEY"
+env_key = "97WL_API_KEY"
 wire_api = "chat"
 ```
 
@@ -1307,7 +1299,7 @@ curl -s https://api.97wl.cc/v1/chat/completions \
 
 ## 🔔 额度变了，这里会通知你
 
-CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目前已攒下 179 个样本、覆盖约 39.2 天。额度调整、掉线与恢复、模型上下线、价格变动都会自动记一条：
+CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目前已攒下 180 个样本、覆盖约 63.7 天。额度调整、掉线与恢复、模型上下线、价格变动都会自动记一条：
 
 - 点仓库右上角 **Watch → Custom → Releases**：有重要变动时 GitHub 直接发邮件
 - 订阅 [Atom feed](https://panxunying.github.io/ai-coding-welfare/feed.xml)：RSS 阅读器 / Feedly / Telegram 机器人都能读
@@ -1315,12 +1307,12 @@ CI 每 6 小时抓一次各站接口，与上一次快照逐字段比对，目�
 
 最近几条：
 
+- `2026-10-24` 🔴 ArtBloom 探测不到了：注册页与公开接口都没响应
+- `2026-10-24` 📢 DoCode 发了公告：Gemini Ultra分组上架，仅Gemini 4 Argon，高中低三档模型
+- `2026-10-24` 📢 DoCode 发了公告：-已修复好！ 生图功能暂时不可用，原因为 OpenAI 官方协议变更。 预计这两天修复好
+- `2026-10-24` 📢 DoCode 发了公告：gpt 全系已大幅下调倍率，gptpro 最低 7 倍，不降智最低 15 倍，官 key 最低 24 倍。
+- `2026-10-24` 📢 DoCode 发了公告：最近上线模型：gpt-6.1-sol、claude-opus-5-5、claude-sonnet-5-5
 - `2026-09-29` ➕ FlushAPI 上线模型：claude-sonnet-5
-- `2026-09-29` ➖ FlushAPI 下线模型：auto、claude-fable-5.1、claude-opus-4-7、claude-opus-4.7 等 10 个
-- `2026-09-24` 🆕 新收录 FlushAPI：每日签到开启；注册 / 邀请 / 签到额度数额站点未公示
-- `2026-09-23` 🟢 Matrix 恢复在线
-- `2026-09-23` ➖ AgentRouter 下线模型：glm-5.3、gpt-5.6-sol
-- `2026-09-23` 🏷️ AgentRouter claude-opus-5 价格 $8 入 / $40 出（每 1M） → $6 入 / $30 出（每 1M）
 
 完整记录见 [CHANGELOG.md](CHANGELOG.md)。
 
@@ -1406,20 +1398,3 @@ npm run check     # 校验链接是否还活着
 <sub>关键词：Claude Code 免费 · Claude Code 中转 · Codex 中转 · Codex 公益站 · AI API 中转站 · 公益站 · 免费 API 额度 · 每日免费额度 · claude-opus-5 API · New API · ArtBloom · Opus 5.5 免费额度 · AgentRouter · RawChat · Matrix 统一网关 · TaBiAI · GoRouter · KKtoken · AnyRouter · CheapCodex · NOFX 积分 · Mirasim Go · GPT-5.6 Sol 中转 · claude-opus-5 按次计费</sub>
 
 <!-- 本文件由 scripts/build.mjs 自动生成，请修改 data/sites.json 或 scripts/lib/render-readme.mjs -->
-
----
-
-### 关于本站作者使用的中转站
-
-本站整理的中转站里，我长期自用的是 **[RELAY X](https://api.97wl.cc/register)**：
-
-- **双协议兼容** — [OI] 与 Anthropic 同时支持，[CC] / Codex 零改造
-- **注册门槛低** — QQ 邮箱即可，无需邀请码、无需手机号、无需外币卡
-- **计费透明** — 按量计费，输入输出分开计价，分组与模型倍率在控制台公开
-- **可审计** — 基于开源 Sub2API 面板，每笔调用扣费可明细查询
-- **起充低** — 人民币 10 元起，可以先小额试
-
-👉 **https://api.97wl.cc/**
-
-> 说明：个人部署的第三方 API 转发服务，非上游厂商官方产品。建议按实际用量充值，避免一次性大额预付；重要业务请自备备份线路。
-

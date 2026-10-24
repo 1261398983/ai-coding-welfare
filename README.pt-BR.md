@@ -15,13 +15,13 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-09-29 12:56 UTC
+**Dados atualizados em:** 2026-10-24 01:41 UTC
 
 ## Visão geral
 
 | Serviço | Status | Créditos no primeiro dia / plano | Créditos diários | Cadastro |
 | --- | --- | --- | --- | --- |
-| **ArtBloom** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
+| **ArtBloom** | Falha na verificação | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
 | **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=szt3) |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sem check-in | [Abrir serviço / cadastrar](https://ai.docode.life/register?aff=zMRe) |
 | **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) |
@@ -32,7 +32,7 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | Acessível | **$40** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Acessível | **15 pontos** | 5 pontos/dia · Check-in diário | [Abrir serviço / cadastrar](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **97wl** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.97wl.cc/register) |
+| **97wl** | Acessível | **Não divulgado publicamente** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.97wl.cc/r/T8KiaeGU) |
 
 **Créditos indicativos em USD no primeiro dia: $699.5 em 7 serviços que aceitam novos usuários.**
 
@@ -56,8 +56,8 @@ Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no prime
 - **Créditos no primeiro dia / plano**: $100
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
-- **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Status**: Falha na verificação
+- **Dados atualizados em**: 2026-10-24 01:41 UTC
 
 
 ### Requisitos de cadastro
@@ -139,7 +139,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sem check-in
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -179,7 +179,7 @@ Gateway New API com login GitHub, check-ins diários e interfaces de imagens e t
 - **Créditos diários**: ≈$22/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -214,7 +214,7 @@ Ambiente multiagente com plano Go pago; conectar suas próprias contas ou chaves
 
 - **Créditos no primeiro dia / plano**: Go · $1/mês
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 > Estimativas por janela de 5 horas
 > Kimi K3: ≈130 requisições
@@ -259,7 +259,7 @@ Gateway New API com cadastro GitHub, preços públicos e saldos default / Super 
 - **Créditos diários**: Check-in ativo; valor não divulgado
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -306,7 +306,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -343,7 +343,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Bônus de indicação**: 600 pontos
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -380,7 +380,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:56 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -416,7 +416,7 @@ Gateway de IA com créditos de indicação, check-ins e rotas OpenAI, Anthropic 
 - **Bônus de indicação**: $20
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -452,7 +452,7 @@ Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; 
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 12:55 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro
@@ -480,13 +480,13 @@ Não divulgado publicamente
 
 Agregador de relay de API de IA. Uma única base URL atende protocolos compatíveis com OpenAI e com Anthropic, então Claude Code e Codex CLI conectam sem alterar código. O console lista um grupo de modelos CN a 0,08x do preço de tabela e um grupo open ai pro a 0,22x.
 
-[Abrir serviço / cadastrar](https://api.97wl.cc/register) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/97wl/)
+[Abrir serviço / cadastrar](https://api.97wl.cc/r/T8KiaeGU) · [Detalhes](https://panxunying.github.io/ai-coding-welfare/pt-BR/sites/97wl/)
 
 
 - **Créditos no primeiro dia / plano**: Não divulgado publicamente
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-09-29 16:32 UTC
+- **Dados atualizados em**: 2026-10-24 01:40 UTC
 
 
 ### Requisitos de cadastro

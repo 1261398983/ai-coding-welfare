@@ -7,6 +7,26 @@
  */
 import { language, languageNav, languageAlternates } from './locales.mjs';
 
+/**
+ * 每页底部的端点说明块。
+ * 写进模板而不是事后注入：数据刷新工作流会重建整个 docs/，
+ * 任何在生成物上做的改动都会在下次刷新时消失。
+ */
+const ENDPOINT_CTA = {
+  zh: `<div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#c7d3e8">
+  <strong style="color:#e8eef9">本文示例所用的 API 端点</strong>：<code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
+  QQ 邮箱即可注册，无需邀请码，按量计费；注册时在推广码栏填写渠道码可领额外额度。
+  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600">→ 注册入口</a>
+  · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">配置指南</a>
+</div>`,
+  en: `<div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI',sans-serif;color:#c7d3e8">
+  <strong style="color:#e8eef9">API endpoint used in these examples</strong>: <code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
+  Sign up with any QQ email, no invite code, pay-as-you-go; enter a channel code at signup for extra credit.
+  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600">→ Sign up</a>
+  · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">Setup guide</a>
+</div>`,
+};
+
 export const esc = (s) =>
   String(s ?? '')
     .replace(/&/g, '&amp;')
@@ -95,6 +115,7 @@ ${body}
       meta.repoUrl.replace(/^https:\/\//, ''),
     )}</a> 自动生成 · <a href="${esc(feed)}">Atom 订阅</a></p>`}
   </footer>
+  ${copy ? ENDPOINT_CTA.en : ENDPOINT_CTA.zh}
 </div>
 </body>
 </html>

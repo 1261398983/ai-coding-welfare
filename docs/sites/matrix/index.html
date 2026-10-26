@@ -281,7 +281,7 @@ tr.shut td { color: var(--fg-dim); }
       <span class="pill">数据更新 <b>2026-10-26 13:02 UTC</b></span>
     </div>
     <div class="cta-row">
-      <a class="btn btn-primary" href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_" target="_blank" rel="noopener">免费注册 Matrix →</a>
+      <a class="btn btn-primary" href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_" target="_blank" rel="noopener nofollow">免费注册 Matrix →</a>
       <a class="btn btn-ghost" href="#config">直接看接入配置</a>
     </div>
 
@@ -299,7 +299,7 @@ tr.shut td { color: var(--fg-dim); }
   <section><h2>注册要求</h2><ul class="hl"><li>务必从本页邀请链接进入注册（带 inviteCode），奖励仅对新用户首次注册有效，否则 600 积分不发放</li><li>被邀请者注册即得 600 获赠积分，不要求先实名；2,000 积分的实名奖励要自己去钱包页领取</li><li>同一用户 / 同一实名主体只能领一次实名奖励；异常注册、重复绑定邀请关系不发奖</li></ul></section>
   <section id="config"><h2>接入配置</h2><p class="hint">官方文档把网关地址写成占位符「&lt;Matrix 网关地址&gt;/v1」，并注明当前地址只显示在登录后的 API Key 详情页，本页不做猜测。</p>
 <ol class="hl"><li>从本页邀请链接注册并登录（杭电统一身份认证 / 手机验证码 / 邮箱 + 密码 任选一种）</li><li>进入控制台「API Key」新建一把 Key：Token 以 mat- 开头且只显示一次，复制好；同一页面能看到当前网关地址</li><li>客户端里填 Base URL = 网关地址 + /v1、API Key = 刚复制的 mat- Key，模型名到控制台「模型列表」页确认</li></ol>
-<p><a class="btn btn-ghost" href="https://matrix.mzsjai.com/app/apikey" target="_blank" rel="noopener">打开控制台</a></p></section>
+<p><a class="btn btn-ghost" href="https://matrix.mzsjai.com/app/apikey" target="_blank" rel="noopener nofollow">打开控制台</a></p></section>
   <section><h2>如何继续拿额度</h2><ul class="hl"><li>完成个人实名认证，在钱包页领 2,000 积分（一次性）</li><li>邀请好友注册，邀请者与被邀请者各得 600 积分 / 人</li><li>站内「反馈赢兑换码」：建议被采纳会送额度</li><li>注册后钱包里还有一笔初始体验额度，站方没公示具体数目，本页不计入合计</li></ul></section>
   <section><h2>⚠️ 使用前必读</h2><ul class="hl"><li>额度是站内积分，站方没有公开积分与美元的换算，本页按积分原样显示，不折算美元、也不并入跨站的美元合计</li><li>活动奖励发的是「获赠积分」，长期有效，但只能调用支持获赠积分的模型与平台服务</li><li>增长活动官方写明有效期至 2026 年 12 月 31 日，之后规则可能调整</li><li>只提供 OpenAI 兼容协议，官方文档没有 Anthropic 原生接口，Claude Code 不能直连（要用得自己做协议转换）</li><li>应用商店的容器实例按规格 × 运行时长计费，体验完记得在控制台关停 / 删除，否则会一直扣额度</li><li>站内的 Qoder 订阅、充值等是付费商品，注意与免费活动奖励区分</li><li>实名认证要提交个人身份信息，为 2,000 积分做不做这一步请自行判断</li></ul></section>
   <section><h2>最近 7 天可用性</h2><p class="hint">最近 7 天自动探测 18 次，在线 18 次（<b>100%</b>）。</p>
@@ -340,7 +340,7 @@ document.querySelectorAll('.copy').forEach(function (btn) {
   <div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#c7d3e8">
   <strong style="color:#e8eef9">本文示例所用的 API 端点</strong>：<code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
   QQ 邮箱即可注册，无需邀请码，按量计费；注册时在推广码栏填写渠道码可领额外额度。
-  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600" rel="nofollow noopener">→ 注册入口</a>
+  <a href="https://api.97wl.cc/register" rel="nofollow noopener" style="color:#5b9dff;text-decoration:none;font-weight:600">→ 注册入口</a>
   · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">配置指南</a>
   · <a href="https://1261398983.github.io/ai-api-guide/tools.html" style="color:#8fb8e8;text-decoration:none">工具配置</a>
   · <a href="https://1261398983.github.io/ai-api-guide/token-cost.html" style="color:#8fb8e8;text-decoration:none">省 token</a>

@@ -281,7 +281,7 @@ tr.shut td { color: var(--fg-dim); }
       <span class="pill">数据更新 <b>2026-10-26 13:02 UTC</b></span>
     </div>
     <div class="cta-row">
-      <a class="btn btn-primary" href="https://ai.docode.life/register?aff=zMRe" target="_blank" rel="noopener">免费注册 DoCode →</a>
+      <a class="btn btn-primary" href="https://ai.docode.life/register?aff=zMRe" target="_blank" rel="noopener nofollow">免费注册 DoCode →</a>
       <a class="btn btn-ghost" href="#config">直接看接入配置</a>
     </div>
 
@@ -317,7 +317,7 @@ wire_api = &quot;chat&quot;</code></pre><button class="copy" type="button">复�
   <section><h2>⚠️ 使用前必读</h2><ul class="hl"><li>站内的「刀」不是美元：面板公开的 price = 0.02 就是充值比例，1 元 = 50 站内刀（公告里说平时恢复 1:25），而本页其它站是 ¥7.3 ≈ $1。所以 300 站内刀对应的充值面值只有 ¥6~12，本页也没把它并进跨站的美元合计</li><li>扣费还要再乘站内倍率：公告里 GPT pro 分组长期在 7~14 倍之间随上游号商价格来回调（New API 口径：倍率 1 = $2 / 百万 tokens）。按 13 倍粗算，300 站内刀约合一千万 tokens 量级的输入额度，输出还要乘补全倍率——量不算小，但一切以控制台实时倍率为准</li><li>额度数字（注册 50 / 邀请 250）站点公开接口没有暴露：/api/status 里既没有 quota_for_new_user 也没有 quota_for_invitee，本页登记的是站内公示口径，进后台核对一遍再算账</li><li>没有每日签到，额度用完只能充值或等活动，不像 AgentRouter 那样能每天续命</li><li>这是付费中转站不是公益站：后台开着在线充值（Stripe 单价 ¥8），公告里大半是充值送额度与倍率涨跌，免费额度用完要付费才能续</li><li>主注册链接已更新为 ai.docode.life/register?aff=zMRe；2026-09-25 本地 HTTPS 检查发现证书与主机名不匹配，尚未确认新入口可正常注册。如浏览器提示证书错误，请勿绕过警告，可尝试下方 api.docode.cc 备用入口；自动健康检查仍检查新注册链接</li><li>上游波动写在公告里：GPT plus「全面阵亡」后又「暂时复活」、gpt-5.4 已彻底下架、9 月 10 日还在说「openai 炸了，gpt 全线都不太行」，别当稳定生产通道用</li></ul></section>
   <section><h2>最近 7 天可用性</h2><p class="hint">最近 7 天自动探测 18 次，在线 18 次（<b>100%</b>）。</p>
     <p><a class="navlink" href="../../status/">看全部站点的可用性 →</a></p></section>
-  <section><h2>镜像 / 备用入口</h2><ul class="hl"><li>直连美国：<a href="https://api.docode.cc/register?aff=zMRe" target="_blank" rel="noopener">https://api.docode.cc</a></li></ul></section>
+  <section><h2>镜像 / 备用入口</h2><ul class="hl"><li>直连美国：<a href="https://api.docode.cc/register?aff=zMRe" target="_blank" rel="noopener nofollow">https://api.docode.cc</a></li></ul></section>
 
 
   <section><h2>常见问题</h2>
@@ -353,7 +353,7 @@ document.querySelectorAll('.copy').forEach(function (btn) {
   <div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#c7d3e8">
   <strong style="color:#e8eef9">本文示例所用的 API 端点</strong>：<code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
   QQ 邮箱即可注册，无需邀请码，按量计费；注册时在推广码栏填写渠道码可领额外额度。
-  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600" rel="nofollow noopener">→ 注册入口</a>
+  <a href="https://api.97wl.cc/register" rel="nofollow noopener" style="color:#5b9dff;text-decoration:none;font-weight:600">→ 注册入口</a>
   · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">配置指南</a>
   · <a href="https://1261398983.github.io/ai-api-guide/tools.html" style="color:#8fb8e8;text-decoration:none">工具配置</a>
   · <a href="https://1261398983.github.io/ai-api-guide/token-cost.html" style="color:#8fb8e8;text-decoration:none">省 token</a>

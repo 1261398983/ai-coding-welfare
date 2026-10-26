@@ -16,7 +16,7 @@ const ENDPOINT_CTA = {
   zh: `<div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI','PingFang SC','Microsoft YaHei',sans-serif;color:#c7d3e8">
   <strong style="color:#e8eef9">本文示例所用的 API 端点</strong>：<code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
   QQ 邮箱即可注册，无需邀请码，按量计费；注册时在推广码栏填写渠道码可领额外额度。
-  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600">→ 注册入口</a>
+  <a href="https://api.97wl.cc/register" rel="nofollow noopener" style="color:#5b9dff;text-decoration:none;font-weight:600">→ 注册入口</a>
   · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">配置指南</a>
   · <a href="https://1261398983.github.io/ai-api-guide/tools.html" style="color:#8fb8e8;text-decoration:none">工具配置</a>
   · <a href="https://1261398983.github.io/ai-api-guide/token-cost.html" style="color:#8fb8e8;text-decoration:none">省 token</a>
@@ -25,7 +25,7 @@ const ENDPOINT_CTA = {
   en: `<div style="max-width:900px;margin:40px auto 0;padding:18px 22px;border:1px solid #24304a;border-radius:12px;background:#0e1524;font:14px/1.75 -apple-system,'Segoe UI',sans-serif;color:#c7d3e8">
   <strong style="color:#e8eef9">API endpoint used in these examples</strong>: <code style="background:#16203a;padding:1px 6px;border-radius:4px">https://api.97wl.cc/v1</code><br>
   Sign up with any QQ email, no invite code, pay-as-you-go; enter a channel code at signup for extra credit.
-  <a href="https://api.97wl.cc/register" style="color:#5b9dff;text-decoration:none;font-weight:600">→ Sign up</a>
+  <a href="https://api.97wl.cc/register" rel="nofollow noopener" style="color:#5b9dff;text-decoration:none;font-weight:600">→ Sign up</a>
   · <a href="https://1261398983.github.io/ai-api-guide/" style="color:#8fb8e8;text-decoration:none">Setup guide</a>
   · <a href="https://1261398983.github.io/ai-api-guide/tools.html" style="color:#8fb8e8;text-decoration:none">Tool configs</a>
   · <a href="https://1261398983.github.io/ai-api-guide/token-cost.html" style="color:#8fb8e8;text-decoration:none">Token saving</a>

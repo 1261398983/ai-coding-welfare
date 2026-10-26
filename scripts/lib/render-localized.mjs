@@ -182,7 +182,7 @@ function callout(meta, ui) {
     ${link(`${meta.repoUrl}/issues/new/choose`, ui.submit)} ${link(`${meta.repoUrl}/issues`, ui.browse)}</aside>`;
 }
 function button(v, ui) {
-  return `<a class="btn btn-ghost" href="${esc(v.site.signupUrl)}">${esc(v.shut ? ui.visitClosed : ui.visit)} →</a>`;
+  return `<a class="btn btn-ghost" href="${esc(v.site.signupUrl)}" rel="nofollow noopener">${esc(v.shut ? ui.visitClosed : ui.visit)} →</a>`;
 }
 function modelTable(v, ui) {
   const rows = modelRows(v);

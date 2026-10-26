@@ -12,18 +12,18 @@
 </p>
 
 <p align="center">
-  <a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI"><b>ArtBloom 注册</b></a> ·
-  <a href="https://agentrouter.org/register?aff=szt3"><b>AgentRouter 注册</b></a> ·
-  <a href="https://ai.docode.life/register?aff=zMRe"><b>DoCode 注册</b></a> ·
-  <a href="https://api.justwoker.icu/sign-up?aff=VTrz"><b>JustDoWork 注册</b></a> ·
-  <a href="https://mirasim.ai/r/go-kx9cd5"><b>Mirasim 注册</b></a> ·
-  <a href="https://flushapi.fun/sign-up?aff=WBF3"><b>FlushAPI 注册</b></a> ·
-  <a href="https://kktoken.cc/sign-up?aff=MzG9"><b>KKtoken AI 注册</b></a> ·
-  <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"><b>Matrix 注册</b></a> ·
-  <a href="https://anyrouter.top/register?aff=Z24N"><b>AnyRouter 注册</b></a> ·
-  <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><b>CheapCodex 注册</b></a> ·
-  <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><b>NOFX 注册</b></a> ·
-  <a href="https://api.97wl.cc/register"><b>97wl 注册</b></a>
+  <a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI" rel="nofollow noopener"><b>ArtBloom 注册</b></a> ·
+  <a href="https://agentrouter.org/register?aff=szt3" rel="nofollow noopener"><b>AgentRouter 注册</b></a> ·
+  <a href="https://ai.docode.life/register?aff=zMRe" rel="nofollow noopener"><b>DoCode 注册</b></a> ·
+  <a href="https://api.justwoker.icu/sign-up?aff=VTrz" rel="nofollow noopener"><b>JustDoWork 注册</b></a> ·
+  <a href="https://mirasim.ai/r/go-kx9cd5" rel="nofollow noopener"><b>Mirasim 注册</b></a> ·
+  <a href="https://flushapi.fun/sign-up?aff=WBF3" rel="nofollow noopener"><b>FlushAPI 注册</b></a> ·
+  <a href="https://kktoken.cc/sign-up?aff=MzG9" rel="nofollow noopener"><b>KKtoken AI 注册</b></a> ·
+  <a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_" rel="nofollow noopener"><b>Matrix 注册</b></a> ·
+  <a href="https://anyrouter.top/register?aff=Z24N" rel="nofollow noopener"><b>AnyRouter 注册</b></a> ·
+  <a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S" rel="nofollow noopener"><b>CheapCodex 注册</b></a> ·
+  <a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4" rel="nofollow noopener"><b>NOFX 注册</b></a> ·
+  <a href="https://api.97wl.cc/register" rel="nofollow noopener"><b>97wl 注册</b></a>
 </p>
 
 <p align="center"><a href="https://1261398983.github.io/ai-coding-welfare/compare/">📊 按次 vs 按量折算横评</a> · <a href="https://1261398983.github.io/ai-coding-welfare/status/">🩺 可用性历史</a> · <a href="https://1261398983.github.io/ai-coding-welfare/changelog/">🗓 变动日志</a> · <a href="https://1261398983.github.io/ai-coding-welfare/feed.xml">🔔 Atom 订阅</a></p>
@@ -85,7 +85,7 @@ powershell -ExecutionPolicy Bypass -File scripts/quickstart.ps1
 
 > 支持 Opus 5.5 · 注册首日即送 $100，GitHub 一键注册
 
-<a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
+<a href="https://api.artbloom.tech/signup?ref=PCTM2VCGUI" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-ArtBloom-brightgreen?style=for-the-badge" alt="注册 ArtBloom"></a>
 
 **为什么值得注册**
 
@@ -156,7 +156,7 @@ curl -s https://api.artbloom.tech/v1/chat/completions \
 
 > AI Coding 公益站 · 注册即送额度，签到每日续命
 
-<a href="https://agentrouter.org/register?aff=szt3"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AgentRouter-brightgreen?style=for-the-badge" alt="注册 AgentRouter"></a>
+<a href="https://agentrouter.org/register?aff=szt3" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AgentRouter-brightgreen?style=for-the-badge" alt="注册 AgentRouter"></a>
 
 **为什么值得注册**
 
@@ -294,7 +294,7 @@ curl -s https://agentrouter.org/v1/chat/completions \
 
 > New API 中转站 · 注册送 50 站内刀，注册时填邀请码 zMRe 再加 250，首日 300 刀，Claude 与 GPT 都在架上
 
-<a href="https://ai.docode.life/register?aff=zMRe"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
+<a href="https://ai.docode.life/register?aff=zMRe" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-DoCode-brightgreen?style=for-the-badge" alt="注册 DoCode"></a>
 
 **为什么值得注册**
 
@@ -423,7 +423,7 @@ curl -s https://docode.cc/v1/chat/completions \
 
 > New API 中转站 · GitHub 一键登录，支持签到与绘图
 
-<a href="https://api.justwoker.icu/sign-up?aff=VTrz"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
+<a href="https://api.justwoker.icu/sign-up?aff=VTrz" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-JustDoWork-brightgreen?style=for-the-badge" alt="注册 JustDoWork"></a>
 
 **为什么值得注册**
 
@@ -535,7 +535,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 > Go套餐 $1/月 · 每 5 小时官网估算：Kimi 约 130 次 / GLM 约 1,900 次 / DS 约 7,800 次
 
-<a href="https://mirasim.ai/r/go-kx9cd5"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Mirasim-brightgreen?style=for-the-badge" alt="注册 Mirasim"></a>
+<a href="https://mirasim.ai/r/go-kx9cd5" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Mirasim-brightgreen?style=for-the-badge" alt="注册 Mirasim"></a>
 
 **为什么值得注册**
 
@@ -608,7 +608,7 @@ curl -s https://api.justwoker.icu/v1/chat/completions \
 
 > New API 网关 · 注册送 $15，本页邀请进入共 $22.5，GitHub 一键建号，16 个模型与价格全公开
 
-<a href="https://flushapi.fun/sign-up?aff=WBF3"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-FlushAPI-brightgreen?style=for-the-badge" alt="注册 FlushAPI"></a>
+<a href="https://flushapi.fun/sign-up?aff=WBF3" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-FlushAPI-brightgreen?style=for-the-badge" alt="注册 FlushAPI"></a>
 
 **为什么值得注册**
 
@@ -733,7 +733,7 @@ curl -s https://flushapi.fun/v1/chat/completions \
 
 > New API 中转站 · 注册送 $75，本页邀请码再加 $25，按 token 计费输入输出各 $1/M
 
-<a href="https://kktoken.cc/sign-up?aff=MzG9"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
+<a href="https://kktoken.cc/sign-up?aff=MzG9" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-KKtoken%20AI-brightgreen?style=for-the-badge" alt="注册 KKtoken AI"></a>
 
 **为什么值得注册**
 
@@ -846,7 +846,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 > 统一 API 网关 + 开源应用商店 · 邀请注册送 600 积分，实名再送 2000
 
-<a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Matrix-brightgreen?style=for-the-badge" alt="注册 Matrix"></a>
+<a href="https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-Matrix-brightgreen?style=for-the-badge" alt="注册 Matrix"></a>
 
 **为什么值得注册**
 
@@ -910,7 +910,7 @@ curl -s https://kktoken.cc/v1/chat/completions \
 
 > New API 中转站 · 注册送 $75，本页邀请码再加 $50，Anthropic 与 OpenAI 两条原生路由都开着
 
-<a href="https://anyrouter.top/register?aff=Z24N"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AnyRouter-brightgreen?style=for-the-badge" alt="注册 AnyRouter"></a>
+<a href="https://anyrouter.top/register?aff=Z24N" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-AnyRouter-brightgreen?style=for-the-badge" alt="注册 AnyRouter"></a>
 
 **为什么值得注册**
 
@@ -1018,7 +1018,7 @@ curl -s https://anyrouter.top/v1/chat/completions \
 
 > 自研 AI 网关 · 本页邀请码送 $20，每日签到再 $20，OpenAI / Anthropic / Codex 三条协议一把 Key
 
-<a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-CheapCodex-brightgreen?style=for-the-badge" alt="注册 CheapCodex"></a>
+<a href="https://api.cheapcodex.online/register?aff=U7SSQZSDB36S" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-CheapCodex-brightgreen?style=for-the-badge" alt="注册 CheapCodex"></a>
 
 **为什么值得注册**
 
@@ -1125,7 +1125,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 任务制积分站 · 做任务领 API 积分，签到 / Discord / 邀请 / 发推都给分，免密码登录、无需绑卡
 
-<a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
+<a href="https://nofx.one/zh-CN/sign-in?ref=J369GHY4" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-NOFX-brightgreen?style=for-the-badge" alt="注册 NOFX"></a>
 
 **为什么值得注册**
 
@@ -1186,7 +1186,7 @@ curl -s https://api.cheapcodex.online/v1/chat/completions \
 
 > 中转聚合站 · 国模分组 0.08x（官网价 8%），同一个 base URL 同时吃 OpenAI 与 Anthropic
 
-<a href="https://api.97wl.cc/register"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-97wl-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
+<a href="https://api.97wl.cc/register" rel="nofollow noopener"><img src="https://img.shields.io/badge/%E7%AB%8B%E5%8D%B3%E6%B3%A8%E5%86%8C-97wl-brightgreen?style=for-the-badge" alt="注册 97wl"></a>
 
 **为什么值得注册**
 

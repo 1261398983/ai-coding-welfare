@@ -15,7 +15,7 @@ Community gateways, free API credits and low-cost plans for Claude Code, Codex a
 
 A translated guide to the listed services. Amounts, model IDs, prices and referral URLs are generated from the same data as the Chinese edition. Detailed comparison, history, upstream documentation and some service interfaces remain in Chinese.
 
-**Snapshot updated:** 2026-10-28 05:42 UTC
+**Snapshot updated:** 2026-10-28 12:54 UTC
 
 ## Site overview
 
@@ -32,7 +32,7 @@ A translated guide to the listed services. Amounts, model IDs, prices and referr
 | **AnyRouter** | Reachable | **$150** | $25/day · Daily check-in | [Open service / register](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | Reachable | **$40** | $20/day · Daily check-in | [Open service / register](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Reachable | **15 points** | 5 points/day · Daily check-in | [Open service / register](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **97wl** | Probe failed | **Not publicly specified** | Not publicly specified | [Open service / register](https://api.97wl.cc/register) |
+| **97wl** | Reachable | **Not publicly specified** | Not publicly specified | [Open service / register](https://api.97wl.cc/register) |
 
 **Indicative first-day USD credits: $699.5 across 7 services accepting new users.**
 
@@ -57,7 +57,7 @@ OpenAI-compatible API service offering $100 in credits on the first day of signu
 - **Signup**: $100
 - **Daily credits**: Not publicly specified
 - **Status**: Probe failed
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -139,7 +139,7 @@ New API gateway with Claude and GPT services; bonuses use internal site units, n
 - **Referral bonus**: 250 site units (not USD)
 - **Daily credits**: No check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -179,7 +179,7 @@ New API gateway with GitHub login, daily check-ins and image/task interfaces.
 - **Daily credits**: ≈$22/day · Daily check-in
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -214,7 +214,7 @@ Multi-agent workspace with a paid Go plan; connecting your own accounts or API k
 
 - **First-day credits / plan**: Go · $1/month
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 > Estimates per 5-hour window
 > Kimi K3: ≈130 requests
@@ -259,7 +259,7 @@ New API gateway with GitHub signup, public model pricing and separate default / 
 - **Daily credits**: Check-in enabled; amount unpublished
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -306,7 +306,7 @@ New API gateway with referral credits, daily check-ins and token-based billing.
 - **Daily credits**: $20/day · Daily check-in
 - **Status**: Reachable
 - **Signup**: OAuth registration only: GitHub
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -343,7 +343,7 @@ OpenAI-compatible gateway and app store using internal points, with referral and
 - **Referral bonus**: 600 points
 - **Daily credits**: Not publicly specified
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -380,7 +380,7 @@ New API gateway with signup/referral credits, daily check-ins and Anthropic/Open
 - **Referral bonus**: $50
 - **Daily credits**: $25/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -416,7 +416,7 @@ AI gateway with referral credits, daily check-ins and OpenAI, Anthropic and Resp
 - **Referral bonus**: $20
 - **Daily credits**: $20/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -452,7 +452,7 @@ Task-based API points with passwordless login, Discord check-ins and referral re
 - **Referral bonus**: 10 points
 - **Daily credits**: 5 points/day · Daily check-in
 - **Status**: Reachable
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements
@@ -485,8 +485,8 @@ AI API relay aggregator. One base URL serves both OpenAI-compatible and Anthropi
 
 - **First-day credits / plan**: Not publicly specified
 - **Daily credits**: Not publicly specified
-- **Status**: Probe failed
-- **Snapshot updated**: 2026-10-28 05:42 UTC
+- **Status**: Reachable
+- **Snapshot updated**: 2026-10-28 12:54 UTC
 
 
 ### Registration requirements

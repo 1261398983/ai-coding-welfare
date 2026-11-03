@@ -15,7 +15,7 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 
 Übersetzter Leitfaden zu den aufgeführten Diensten. Beträge, Modell-IDs, Preise und Empfehlungslinks stammen aus denselben Daten wie die chinesische Ausgabe. Ausführliche Vergleiche, Verlauf, Anbieterdokumentation und manche Benutzeroberflächen bleiben auf Chinesisch.
 
-**Datenstand:** 2026-11-02 15:53 UTC
+**Datenstand:** 2026-11-03 00:59 UTC
 
 ## Anbieterübersicht
 
@@ -24,7 +24,7 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 | **ArtBloom** | Prüfung fehlgeschlagen | **$100** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
 | **AgentRouter** | Erreichbar | **$175** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://agentrouter.org/register?aff=szt3) |
 | **DoCode** | Erreichbar | **300 interne Einheiten (keine USD)** | Kein Check-in | [Dienst öffnen / registrieren](https://ai.docode.life/register?aff=zMRe) |
-| **JustDoWork** | Erreichbar | **≈$92** | ≈$22/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=VTrz) |
+| **JustDoWork** | Prüfung fehlgeschlagen | **≈$92** | ≈$22/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=VTrz) |
 | **Mirasim** | Erreichbar | **Go · $1/Monat** | Schätzwerte je 5-Stunden-Zeitfenster | [Dienst öffnen / registrieren](https://mirasim.ai/r/go-kx9cd5) |
 | **FlushAPI** | Prüfung fehlgeschlagen | **$22.5** | Check-in aktiviert; Betrag nicht veröffentlicht | [Dienst öffnen / registrieren](https://flushapi.fun/sign-up?aff=WBF3) |
 | **KKtoken AI** | Erreichbar | **$120** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://kktoken.cc/sign-up?aff=MzG9) |
@@ -57,7 +57,7 @@ OpenAI-kompatibler API-Dienst mit 100 US-Dollar Guthaben am ersten Tag der Regis
 - **Registrierung**: $100
 - **Tägliches Guthaben**: Nicht öffentlich angegeben
 - **Status**: Prüfung fehlgeschlagen
-- **Datenstand**: 2026-11-02 15:53 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -139,7 +139,7 @@ New-API-Gateway für Claude und GPT; Prämien werden in internen Einheiten verge
 - **Empfehlungsbonus**: 250 interne Einheiten (keine USD)
 - **Tägliches Guthaben**: Kein Check-in
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -173,11 +173,12 @@ New-API-Gateway mit GitHub-Anmeldung, täglichen Check-ins und Bild-/Aufgabensch
 
 [Dienst öffnen / registrieren](https://api.justwoker.icu/sign-up?aff=VTrz) · [Details](https://1261398983.github.io/ai-coding-welfare/de/sites/justdowork/)
 
+> Zwischengespeicherte Daten: Die letzte Prüfung lieferte keine neuen Daten. Letzter erfolgreicher Datenstand: 2026-11-02 15:53 UTC.
 
 - **Guthaben am ersten Tag / Tarif**: ≈$92
 - **Registrierung**: $70
 - **Tägliches Guthaben**: ≈$22/Tag · Täglicher Check-in
-- **Status**: Erreichbar
+- **Status**: Prüfung fehlgeschlagen
 - **Registrierung**: Registrierung nur per OAuth: GitHub
 - **Datenstand**: 2026-11-02 15:53 UTC
 
@@ -214,7 +215,7 @@ Multi-Agent-Arbeitsumgebung mit kostenpflichtigem Go-Tarif; eigene Konten oder A
 
 - **Guthaben am ersten Tag / Tarif**: Go · $1/Monat
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:57 UTC
 
 > Schätzwerte je 5-Stunden-Zeitfenster
 > Kimi K3: ≈130 Anfragen
@@ -307,7 +308,7 @@ New-API-Gateway mit Empfehlungsprämien, täglichen Check-ins und tokenbasierter
 - **Tägliches Guthaben**: $20/Tag · Täglicher Check-in
 - **Status**: Erreichbar
 - **Registrierung**: Registrierung nur per OAuth: GitHub
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -344,7 +345,7 @@ OpenAI-kompatibles Gateway und App-Store mit internen Punkten, Empfehlungsprämi
 - **Empfehlungsbonus**: 600 Punkte
 - **Tägliches Guthaben**: Nicht öffentlich angegeben
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -381,7 +382,7 @@ New-API-Gateway mit Registrierungs-/Empfehlungsprämien, täglichen Check-ins un
 - **Empfehlungsbonus**: $50
 - **Tägliches Guthaben**: $25/Tag · Täglicher Check-in
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -417,7 +418,7 @@ KI-Gateway mit Empfehlungsprämien, täglichen Check-ins sowie OpenAI-, Anthropi
 - **Empfehlungsbonus**: $20
 - **Tägliches Guthaben**: $20/Tag · Täglicher Check-in
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -453,7 +454,7 @@ Aufgabenbasierte API-Punkte mit passwortloser Anmeldung, Discord-Check-ins und E
 - **Empfehlungsbonus**: 10 Punkte
 - **Tägliches Guthaben**: 5 Punkte/Tag · Täglicher Check-in
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung
@@ -487,7 +488,7 @@ AI-API-Relay-Aggregator. Eine einzige Base-URL bedient sowohl OpenAI-kompatible 
 - **Guthaben am ersten Tag / Tarif**: Nicht öffentlich angegeben
 - **Tägliches Guthaben**: Nicht öffentlich angegeben
 - **Status**: Erreichbar
-- **Datenstand**: 2026-11-02 15:52 UTC
+- **Datenstand**: 2026-11-03 00:58 UTC
 
 
 ### Voraussetzungen für die Registrierung

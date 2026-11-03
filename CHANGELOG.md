@@ -8,6 +8,7 @@ AI Coding 福利站导航的自动变动记录：站点上下线、额度调整�
 
 ## 2026-11-03
 
+- 🟢 JustDoWork 恢复在线 <sub>23:23 UTC</sub>
 - 🟢 FlushAPI 恢复在线 <sub>14:15 UTC</sub>
 - 🔴 JustDoWork 探测不到了：注册页与公开接口都没响应 <sub>00:59 UTC</sub>
 

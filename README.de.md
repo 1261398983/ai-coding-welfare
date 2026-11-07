@@ -32,7 +32,6 @@ Community-Gateways, kostenloses API-Guthaben und günstige Tarife für Claude Co
 | **AnyRouter** | Erreichbar | **$150** | $25/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://anyrouter.top/register?aff=Z24N) |
 | **CheapCodex** | Erreichbar | **$40** | $20/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://api.cheapcodex.online/register?aff=U7SSQZSDB36S) |
 | **NOFX** | Erreichbar | **15 Punkte** | 5 Punkte/Tag · Täglicher Check-in | [Dienst öffnen / registrieren](https://nofx.one/zh-CN/sign-in?ref=J369GHY4) |
-| **removed** | Erreichbar | **Nicht öffentlich angegeben** | Nicht öffentlich angegeben | [Dienst öffnen / registrieren]() |
 
 **Ungefähres USD-Guthaben am ersten Tag: $699.5 bei 7 Diensten, die neue Nutzer aufnehmen.**
 
@@ -477,41 +476,6 @@ Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten 
 Nicht öffentlich angegeben
 
 [Vollständige Quellnotizen (Chinesisch)](https://1261398983.github.io/ai-coding-welfare/sites/nofx/)
-## removed
-
-AI-API-Relay-Aggregator. Eine einzige Base-URL bedient sowohl OpenAI-kompatible als auch Anthropic-kompatible Protokolle, sodass Claude Code und Codex CLI ohne Codeänderungen verbinden. Die Konsole listet eine CN-Modell-Gruppe mit 0,08x Listenpreis und eine open-ai-pro-Gruppe mit 0,22x.
-
-[Dienst öffnen / registrieren]() · [Details](https://1261398983.github.io/ai-coding-welfare/de/sites/removed/)
-
-
-- **Guthaben am ersten Tag / Tarif**: Nicht öffentlich angegeben
-- **Tägliches Guthaben**: Nicht öffentlich angegeben
-- **Status**: Erreichbar
-- **Datenstand**: 2026-11-07 05:58 UTC
-
-
-### Voraussetzungen für die Registrierung
-
-Registrierung per E-Mail (QQ Mail genügt). Bitte den vollständigen Empfehlungslink verwenden, da die Zuordnung bei der Registrierung erfolgt; keine ausländische Telefonnummer oder Karte nötig.
-
-### Prämien, Einschränkungen und wichtige Hinweise
-
-Nutzungsbasierte Abrechnung in CNY statt kostenlosem Guthaben. Modellliste und Gruppenmultiplikatoren stammen aus der Anbieterkonsole. Ein öffentliches /api/status gibt es nicht, daher wird nur /v1/models geprüft - ein 401 ohne Schlüssel gilt als Lebenszeichen. Vor Produktivbetrieb die vier Endpunkte selbst testen.
-
-### Client-Einrichtung
-
-Erstelle im Dashboard einen API-Schlüssel und verwende nur ein für dein Konto verfügbares Modell. Anthropic-Basis-URLs enthalten kein /v1, OpenAI-kompatible URLs meist schon. Ein Protokoll-Endpunkt garantiert nicht die Unterstützung aller Modelle oder Clients.
-
-- Anthropic Base URL: `https://your-endpoint.example.com`
-- OpenAI Base URL: `https://your-endpoint.example.com/v1`
-
-### Öffentlicher Modell-Datenstand
-
-Aufgeführt werden nur Modelle aus dem öffentlichen Datenstand; fehlende Daten bedeuten nicht, dass keine Modelle vorhanden sind. Aktuelle Preise, Kontogruppen und Verfügbarkeit im Dashboard prüfen. Preise pro Anfrage sind keine Tokenpreise.
-
-Nicht öffentlich angegeben
-
-[Vollständige Quellnotizen (Chinesisch)](https://1261398983.github.io/ai-coding-welfare/sites/removed/)
 
 ## Archivierte Dienste
 

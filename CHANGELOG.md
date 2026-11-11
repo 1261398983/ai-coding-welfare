@@ -8,6 +8,7 @@ AI Coding 福利站导航的自动变动记录：站点上下线、额度调整�
 
 ## 2026-11-11
 
+- 🔴 JustDoWork 探测不到了：注册页与公开接口都没响应 <sub>19:36 UTC</sub>
 - 📢 DoCode 发了公告：双 11，11 点有活动 <sub>06:21 UTC</sub>
 - 🟢 JustDoWork 恢复在线 <sub>06:21 UTC</sub>
 - 🟢 FlushAPI 恢复在线 <sub>06:21 UTC</sub>

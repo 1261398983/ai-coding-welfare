@@ -15,7 +15,7 @@ Gateways comunitários, créditos de API gratuitos e planos econômicos para Cla
 
 Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links de indicação são gerados a partir dos mesmos dados da edição chinesa. Comparações detalhadas, histórico, documentação dos provedores e algumas interfaces continuam em chinês.
 
-**Dados atualizados em:** 2026-11-10 19:44 UTC
+**Dados atualizados em:** 2026-11-11 06:21 UTC
 
 ## Visão geral
 
@@ -24,9 +24,9 @@ Guia traduzido dos serviços listados. Valores, IDs de modelos, preços e links 
 | **ArtBloom** | Acessível | **$100** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://api.artbloom.tech/signup?ref=PCTM2VCGUI) |
 | **AgentRouter** | Acessível | **$175** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://agentrouter.org/register?aff=szt3) |
 | **DoCode** | Acessível | **300 unidades internas (não USD)** | Sem check-in | [Abrir serviço / cadastrar](https://ai.docode.life/register?aff=zMRe) |
-| **JustDoWork** | Falha na verificação | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) |
+| **JustDoWork** | Acessível | **≈$92** | ≈$22/dia · Check-in diário | [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) |
 | **Mirasim** | Acessível | **Go · $1/mês** | Estimativas por janela de 5 horas | [Abrir serviço / cadastrar](https://mirasim.ai/r/go-kx9cd5) |
-| **FlushAPI** | Falha na verificação | **$22.5** | Check-in ativo; valor não divulgado | [Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=WBF3) |
+| **FlushAPI** | Acessível | **$22.5** | Check-in ativo; valor não divulgado | [Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=WBF3) |
 | **KKtoken AI** | Acessível | **$120** | $20/dia · Check-in diário | [Abrir serviço / cadastrar](https://kktoken.cc/sign-up?aff=MzG9) |
 | **Matrix** | Acessível | **600 pontos** | Não divulgado publicamente | [Abrir serviço / cadastrar](https://matrix.mzsjai.com/login?redirect=%2Fapp%2Fgrowth%3FinviteCode%3DMXMRFO52KD2_) |
 | **AnyRouter** | Acessível | **$150** | $25/dia · Check-in diário | [Abrir serviço / cadastrar](https://anyrouter.top/register?aff=Z24N) |
@@ -56,7 +56,7 @@ Serviço de API compatível com OpenAI que oferece US$ 100 em créditos no prime
 - **Cadastro**: $100
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -138,7 +138,7 @@ Gateway New API com Claude e GPT; os bônus usam unidades internas, não dólare
 - **Bônus de indicação**: 250 unidades internas (não USD)
 - **Créditos diários**: Sem check-in
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -172,14 +172,13 @@ Gateway New API com login GitHub, check-ins diários e interfaces de imagens e t
 
 [Abrir serviço / cadastrar](https://api.justwoker.icu/sign-up?aff=VTrz) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/justdowork/)
 
-> Dados em cache: a última verificação não obteve dados novos. Último registro bem-sucedido: 2026-11-10 07:18 UTC.
 
 - **Créditos no primeiro dia / plano**: ≈$92
 - **Cadastro**: $70
 - **Créditos diários**: ≈$22/dia · Check-in diário
-- **Status**: Falha na verificação
+- **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-10 07:18 UTC
+- **Dados atualizados em**: 2026-11-11 06:21 UTC
 
 
 ### Requisitos de cadastro
@@ -214,7 +213,7 @@ Ambiente multiagente com plano Go pago; conectar suas próprias contas ou chaves
 
 - **Créditos no primeiro dia / plano**: Go · $1/mês
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 > Estimativas por janela de 5 horas
 > Kimi K3: ≈130 requisições
@@ -252,15 +251,14 @@ Gateway New API com cadastro GitHub, preços públicos e saldos default / Super 
 
 [Abrir serviço / cadastrar](https://flushapi.fun/sign-up?aff=WBF3) · [Detalhes](https://1261398983.github.io/ai-coding-welfare/pt-BR/sites/flushapi/)
 
-> Dados em cache: a última verificação não obteve dados novos. Último registro bem-sucedido: 2026-11-10 07:18 UTC.
 
 - **Créditos no primeiro dia / plano**: $22.5
 - **Cadastro**: $15
 - **Bônus de indicação**: $7.5
 - **Créditos diários**: Check-in ativo; valor não divulgado
-- **Status**: Falha na verificação
+- **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-10 07:18 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -307,7 +305,7 @@ Gateway New API com créditos de indicação, check-ins diários e cobrança por
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
 - **Cadastro**: Cadastro apenas por OAuth: GitHub
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -344,7 +342,7 @@ Gateway compatível com OpenAI e loja de apps com pontos internos, indicações 
 - **Bônus de indicação**: 600 pontos
 - **Créditos diários**: Não divulgado publicamente
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -381,7 +379,7 @@ Gateway New API com bônus de cadastro/indicação, check-ins diários e rotas A
 - **Bônus de indicação**: $50
 - **Créditos diários**: $25/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -417,7 +415,7 @@ Gateway de IA com créditos de indicação, check-ins e rotas OpenAI, Anthropic 
 - **Bônus de indicação**: $20
 - **Créditos diários**: $20/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
@@ -453,7 +451,7 @@ Pontos de API por tarefas, login sem senha, check-in no Discord e indicações; 
 - **Bônus de indicação**: 10 pontos
 - **Créditos diários**: 5 pontos/dia · Check-in diário
 - **Status**: Acessível
-- **Dados atualizados em**: 2026-11-10 19:43 UTC
+- **Dados atualizados em**: 2026-11-11 06:20 UTC
 
 
 ### Requisitos de cadastro
